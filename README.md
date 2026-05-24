@@ -1,30 +1,36 @@
 # merch-design-engine
 
-A repeatable pipeline for generating print-ready Merch by Amazon t-shirt designs,
-powered by Higgsfield image generation (via the installed skills/MCP) and Claude
-for niche research + creative direction.
+The **design generation feeder** for a print-on-demand system: turn a niche into
+a print-ready design and hand it off to the POD automation pipeline's `inbox/`.
 
-## The loop
+This repo is *only* the generation front end. Background removal, upscaling,
+listing generation, and marketplace upload are handled by the separate POD
+automation pipeline — this feeds it.
 
-1. **Data in** — drop CSV exports from niche-research tools (PinTwist for Pinterest
-   demand, the Amazon/Etsy tools for competition) into `data/`.
-2. **Research** — Claude reads the CSVs, finds a high-demand / low-competition angle.
-3. **Creative** — Claude writes the concept + slogan + a detailed image prompt.
-4. **Generate** — Higgsfield renders a print-ready, transparent-background design.
-5. **Output** — finished PNGs land in `designs/<niche>/`, ready to upload.
+```
+[ THIS REPO ]                              [ POD AUTOMATION PIPELINE ]
+niche/CSV → angle → prompt → Higgsfield →  inbox/ → needs-editing → ... → upload
+            render → designs/                (handoff = a PNG in inbox/)
+```
+
+## Start here
+
+- **`AGENTS.md`** — what this project is + how the agent operates (read first).
+- **`CLAUDE.md`** — points Claude Code at `AGENTS.md`.
+- **`config/generation.md`** — the generation contract (models, params, output format).
+- **`specs/merch-tshirt.md`** — Merch print specs + trademark rules.
 
 ## Folders
 
 | Path | What goes here |
 |---|---|
 | `data/pinterest/` | Pinterest demand CSVs (e.g. PinTwist exports) |
-| `data/etsy/` | Etsy / marketplace competition CSVs |
-| `designs/` | Generated print-ready design files, grouped by niche |
-| `specs/` | Print specs + trademark rules for the target platform |
-| `.agents/skills/` | Higgsfield generation skills (installed) |
+| `data/etsy/` | Etsy / Amazon competition CSVs |
+| `niche-research/` | Demand × competition writeups per niche |
+| `designs/<niche>/` | Generated print-ready PNGs (+ JSON sidecars) |
+| `.agents/skills/` | Higgsfield generation skills |
 
 ## Target
 
-- **Platform:** Merch by Amazon
-- **Product:** T-shirt designs
-- **File spec:** see `specs/merch-tshirt.md`
+- **Platform:** Merch by Amazon · **Product:** t-shirt designs
+- **Print spec:** 4500×5400 PNG (see `specs/merch-tshirt.md`)
