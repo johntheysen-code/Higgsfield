@@ -1,5 +1,5 @@
 {
-  "filename": "in-my-pickleball-mahjong-era__p3.png",
+  "filename": "in-my-pickleball-mahjong-era__p5.png",
   "niche": "pickleball",
   "angle": "pickleball x mahjong (women's crossover)",
   "theme": "retro groovy 'era' trend",
@@ -12,8 +12,8 @@
     "groovy pickleball tee"
   ],
   "trademark_checked": true,
-  "color_profile": 3,
-  "color_profile_note": "Provisional (retro cream elements). Confirm after viewing.",
+  "color_profile": 5,
+  "color_profile_note": "Confirmed after render: cream-background retro design with dark elements = white/light shirts only. Cream background must be knocked out to transparent during pipeline bg-removal.",
   "source_model": "gpt_image_2",
   "higgsfield_job_id": "ec947efa-c7e7-4ac1-a8fd-8e3e586910e6",
   "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
