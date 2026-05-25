@@ -26,9 +26,10 @@ loop:
 1. **Input** — Take a niche/angle. Sources, in order of preference:
    - A CSV in `data/etsy/` or `data/pinterest/` (real demand/competition data)
    - A niche the human names directly
-2. **Research** — Find a high-demand / low-competition angle. Use the CSV data
-   if present; otherwise reason from knowledge + web search. Write findings to
-   `niche-research/<niche>.md`.
+2. **Research** — Find a high-demand / low-competition angle by following the
+   scoring method in `config/niche-scoring.md`. Use the CSV data in `data/` if
+   present; otherwise reason from knowledge + web search and label it a reasoned
+   estimate. Write findings to `niche-research/<niche>.md`.
 3. **Create** — Decide the concept, the slogan/text, and the visual style.
    Trademark-screen every phrase (see `specs/merch-tshirt.md`).
 4. **Generate** — Render via Higgsfield (see `config/generation.md` for the
@@ -49,6 +50,7 @@ loop:
 
 | Path | Purpose |
 |---|---|
+| `config/niche-scoring.md` | How to pick the niche + angle: demand × competition scoring (skill file) |
 | `config/generation.md` | The generation contract: models, params, output format (skill file) |
 | `specs/merch-tshirt.md` | Print specs + trademark rules for Merch by Amazon |
 | `data/etsy/`, `data/pinterest/` | Research input CSVs |
