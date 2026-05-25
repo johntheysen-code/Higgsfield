@@ -40,6 +40,7 @@ combine. Thresholds below are **starting defaults — tune them.**
    >1000 = crowded.
 3. **Proven sales (S)** — is it actually selling? Lower BSR = better (invert);
    high favorites/baskets = better. This separates "wanted" from "bought."
+   Merch rule of thumb: top designs with **BSR under ~300K** = selling.
 4. **Freshness (F)** — bonus for **recent listings that already have traction**
    (new + selling = a window before saturation). Recent first-review date +
    non-trivial sales proxy → high F.

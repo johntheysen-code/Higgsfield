@@ -27,9 +27,12 @@ Starter seeds (also add any niches you're curious about):
 ## What "good" looks like (eyeball while you go)
 
 - **Competition:** under ~1000 results = workable, under ~500 = strong gap
-- **Sales:** some top designs with BSR under ~500k (selling), bonus under ~100k
+- **Sales:** top designs with **BSR under ~300K** (MerchFlux's own guidance), and **not hundreds of competing listings**
 - **Freshness:** recently listed designs that *already* rank well
 - **Sweet spot:** a term where things clearly **sell** but there **aren't many listings**
+
+> Note: CSV export + competition score are **paid-only** in MerchFlux. On the
+> free version you'll only see BSR — capture it via screenshot instead of CSV.
 
 ## Handoff
 
