@@ -40,3 +40,17 @@ Pull **2–3 more niches** (e.g. pickleball, axolotl, a hobby) so we can **compa
 A real target will show: many listings with **real BSRs** (proof people buy) **and**
 lower competition counts. We need a niche where things actually sell — this one
 doesn't.
+
+## Run 2 confirmation (2026-05-25, `..._run2.csv`)
+Re-ran with a different sort → **191 listings** this time. Same verdict, stronger:
+- Still only **~6 of 191** have any BSR, all **2.1M–10M** (barely selling). The
+  two "best" ranks (2.1M, 2.4M) are actually **nurse/medical designs** that bled
+  into the search — not even OT.
+- Rating: **182 "Poor"**, 9 "Average."
+- **N/A BSR is not a tool bug** — on Merch a shirt only gets a BSR once it has
+  sold at least once. N/A = zero sales yet. So ~97% have made no sales.
+- Current creative trend in the niche = cute-animal mashups (goose, raccoon meme,
+  dino, shark, frog) — what sellers are *chasing*, but BSR shows it isn't converting.
+
+**Verdict holds: skip OT.** The re-run taught us the right scan method (sort by
+best-sellers) and what a healthy niche must show: lots of real BSRs, ideally <300K.
