@@ -1,0 +1,20 @@
+{
+  "filename": "will-play-pickleball-for-wine__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x wine (women's retirement lifestyle)",
+  "theme": "feminine floral humor",
+  "slogan": "Will Play Pickleball for Wine",
+  "description": "Stacked hand-lettering with a paddle, holed ball, and red-wine glass, wildflower frame. Sage/terracotta/burgundy/mustard/cream.",
+  "keywords": [
+    "will play pickleball for wine",
+    "funny pickleball wine women shirt",
+    "wine pickleball gift for her",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "373d297b-1785-4782-8142-55536667c503",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py to land it in the pipeline inbox."
+}

@@ -1,0 +1,20 @@
+{
+  "filename": "in-my-pickleball-and-wine-era__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x wine (women's retirement lifestyle)",
+  "theme": "retro groovy 'era' trend",
+  "slogan": "In My Pickleball & Wine Era",
+  "description": "Retro groovy arched lettering, paddle + holed ball + red-wine glass, daisies and sunburst. 70s burnt orange/gold/avocado/burgundy/cream.",
+  "keywords": [
+    "in my pickleball and wine era",
+    "retro pickleball wine shirt",
+    "pickleball wine era women gift",
+    "groovy pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Retro cream-background design with dark elements = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "d2b74bde-61f7-403d-832e-9e250ff061c6",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py to land it in the pipeline inbox."
+}

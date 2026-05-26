@@ -1,0 +1,20 @@
+{
+  "filename": "pickleball-until-wine-oclock__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x wine (women's retirement lifestyle)",
+  "theme": "feminine floral time-pun humor",
+  "slogan": "Pickleball Until Wine O'Clock",
+  "description": "Stacked lettering with a playful clock pointing to a wine glass beside a paddle and holed ball, wildflower frame. Sage/terracotta/burgundy/mustard/cream.",
+  "keywords": [
+    "pickleball until wine o'clock",
+    "wine o'clock pickleball shirt",
+    "funny pickleball wine women gift",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "665a5424-11b9-4561-8486-09b2f198762e",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py to land it in the pipeline inbox."
+}
