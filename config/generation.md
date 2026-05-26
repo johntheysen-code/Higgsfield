@@ -81,9 +81,27 @@ For each chosen design, write to `designs/<niche>/`:
 ## Handoff to the pipeline
 
 The downstream pipeline reads from `PIPELINE_WORKING_DIR/inbox/` (default
-`~/pod-automation/inbox`). Once a design is approved, copy the `.png` (and
-`.json` sidecar) there. On this machine that is a file copy; in this remote
-session it is documented for the human to run locally.
+`~/pod-automation/inbox`). The PNG and its sidecar must share a basename
+(`{slug}__p{N}.png` + `{slug}__p{N}.json`) so the pipeline pairs them.
+
+**The images live in the Higgsfield cloud, not the repo.** Web/remote sessions
+can't fetch them — the CDN host is not in the network allowlist (returns
+`403 host_not_allowed`) — so the agent commits sidecars only, each carrying the
+`higgsfield_job_id`. The image stays in your Higgsfield viewer until you
+download it.
+
+**Automated, no-rename handoff** — `scripts/handoff.py`:
+Higgsfield names every download with its job-ID UUID
+(`hf_<date>_<time>_<job-id>.png`), and each sidecar stores that same UUID. The
+script matches them by UUID, renames each image to the sidecar's `filename`, and
+copies image + sidecar into `inbox/`. So the human workflow is just:
+
+1. Download the approved images from the viewer (any names, any folder).
+2. `python3 scripts/handoff.py`  (flags: `--downloads`, `--inbox`, `--move`, `--dry-run`)
+3. Done — `inbox/` has correctly-named PNGs + matching sidecars. No manual renames.
+
+It reports any sidecar whose image wasn't found in the downloads folder, so you
+know exactly what's left to download.
 
 ## Notes / learnings
 
