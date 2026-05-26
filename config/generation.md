@@ -81,7 +81,7 @@ For each chosen design, write to `designs/<niche>/`:
 ## Handoff to the pipeline
 
 The downstream pipeline reads from `PIPELINE_WORKING_DIR/inbox/` (default
-`~/pod-automation/inbox`). The PNG and its sidecar must share a basename
+`C:\Users\Hello\pod-pipeline\inbox`). The PNG and its sidecar must share a basename
 (`{slug}__p{N}.png` + `{slug}__p{N}.json`) so the pipeline pairs them.
 
 **The images live in the Higgsfield cloud, not the repo.** Web/remote sessions
@@ -97,7 +97,8 @@ script matches them by UUID, renames each image to the sidecar's `filename`, and
 copies image + sidecar into `inbox/`. So the human workflow is just:
 
 1. Download the approved images from the viewer (any names, any folder).
-2. `python3 scripts/handoff.py`  (flags: `--downloads`, `--inbox`, `--move`, `--dry-run`)
+2. `python3 scripts/handoff.py`  (inbox defaults to `C:\Users\Hello\pod-pipeline\inbox`;
+   flags: `--downloads`, `--inbox`, `--move`, `--dry-run`)
 3. Done — `inbox/` has correctly-named PNGs + matching sidecars. No manual renames.
 
 It reports any sidecar whose image wasn't found in the downloads folder, so you

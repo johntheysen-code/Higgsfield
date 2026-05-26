@@ -68,16 +68,14 @@ def index_downloads(downloads_dir: Path):
 
 def main():
     repo_root = Path(__file__).resolve().parent.parent
-    default_inbox = os.environ.get(
-        "PIPELINE_WORKING_DIR", str(Path.home() / "pod-automation")
-    )
+    default_pipeline = os.environ.get("PIPELINE_WORKING_DIR", r"C:\Users\Hello\pod-pipeline")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--designs", type=Path, default=repo_root / "designs",
                     help="Folder of sidecars (default: ./designs)")
     ap.add_argument("--downloads", type=Path, default=Path.home() / "Downloads",
                     help="Where the Higgsfield images were downloaded (default: ~/Downloads)")
-    ap.add_argument("--inbox", type=Path, default=Path(default_inbox) / "inbox",
-                    help="Pipeline inbox (default: $PIPELINE_WORKING_DIR/inbox or ~/pod-automation/inbox)")
+    ap.add_argument("--inbox", type=Path, default=Path(default_pipeline) / "inbox",
+                    help=r"Pipeline inbox (default: $PIPELINE_WORKING_DIR\inbox or C:\Users\Hello\pod-pipeline\inbox)")
     ap.add_argument("--move", action="store_true", help="Move files instead of copying")
     ap.add_argument("--dry-run", action="store_true", help="Show what would happen, change nothing")
     args = ap.parse_args()
