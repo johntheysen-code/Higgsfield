@@ -1,0 +1,20 @@
+{
+  "filename": "weekends-are-for-pickleball-mahjong__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x mahjong (women's crossover)",
+  "theme": "feminine floral lifestyle slogan",
+  "slogan": "Weekends Are for Pickleball & Mahjong",
+  "description": "Small top line + large 'PICKLEBALL & MAHJONG', paddle crossed with mahjong tile and holed ball, wildflower frame. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "weekends are for pickleball",
+    "pickleball mahjong women shirt",
+    "mahjong pickleball weekend gift",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "8ab1b298-18cb-401d-97ba-03e8e75d7255",
+  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+}

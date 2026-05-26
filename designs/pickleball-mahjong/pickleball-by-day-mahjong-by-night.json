@@ -1,0 +1,20 @@
+{
+  "filename": "pickleball-by-day-mahjong-by-night__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x mahjong (women's crossover)",
+  "theme": "feminine floral, day/night contrast",
+  "slogan": "Pickleball by Day, Mahjong by Night",
+  "description": "Stacked hand-lettering with sun + moon/stars motifs, paddle crossed with mahjong tile and holed ball, wildflower frame. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "pickleball by day mahjong by night",
+    "pickleball mahjong women shirt",
+    "funny mahjong pickleball gift",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "9b4921ff-05f2-48ab-83a1-eaf77a9272f9",
+  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+}

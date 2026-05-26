@@ -1,0 +1,20 @@
+{
+  "filename": "powered-by-pickleball-mahjong__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x mahjong (women's crossover)",
+  "theme": "feminine floral emblem/badge",
+  "slogan": "Powered by Pickleball & Mahjong",
+  "description": "Circular wildflower wreath framing 'POWERED BY / PICKLEBALL / & MAHJONG' with crossed paddle + mahjong tile + holed ball. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "powered by pickleball and mahjong",
+    "pickleball mahjong women shirt",
+    "mahjong pickleball gift for her",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "fa8421a2-4f87-4a4c-b1b5-3b31c2edd7af",
+  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+}

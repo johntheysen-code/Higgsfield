@@ -1,0 +1,20 @@
+{
+  "filename": "dinks-and-tiles__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x mahjong (women's crossover)",
+  "theme": "playful insider wordplay (dink = pickleball, tile = mahjong)",
+  "slogan": "Dinks & Tiles",
+  "description": "Bold 'DINKS & TILES' with 'pickleball + mahjong' subtitle, icon-forward paddle+ball / mahjong tile pairing, daisy accents. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "dinks and tiles",
+    "pickleball mahjong funny shirt",
+    "mahjong pickleball gift",
+    "women pickleball tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "3de45434-7d0a-4223-aede-cea3b195d9a9",
+  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+}
