@@ -41,3 +41,21 @@ risk. Avoid league/brand names (e.g. specific tournaments, "USAP").
 Target pickleball with a **differentiated angle**. Sharpest bet: the **Pickleball ×
 Mahjong women's crossover**. Backups: retirement-humor, women's-sass.
 Next: generate designs for the chosen angle.
+
+## Next angle (2026-05-26): Pickleball × Wine (retirement lifestyle stack)
+After shipping 6 mahjong-crossover designs, re-mined the same CSV for the next
+angle. Findings, ranked by BSR (lower = more sales):
+- **Retirement + Wine + Dog** (row 28, "Funny Retirement Pickleball Plan Wine Dog
+  Lover", BSR **411K**, comp 477 LOW, listed 2024-05-23) — among the best-selling
+  *differentiated* listings in the set, and durable (still selling ~2 yrs later).
+  Bundles wine + dog + retirement → same 50+ woman our mahjong line targets.
+- "Cinderella" women's gift (row 27, BSR 411K, comp 448, recent 2026-04-21).
+- "Retired and Dangerous" women's (row 30, BSR 559K, recent 2026-05-03).
+- "In My Pickleball Era" retro (row 37, BSR 577K) — confirms our retro "era" style.
+- **Gap signal:** "Grandpa" appears 4× (men's), "Grandma" appears **0×** despite a
+  female-skewing niche → possible untapped sub-angle, but absence = higher risk.
+
+**Decision:** next angle = **Pickleball × Wine**, framed as the retirement
+lifestyle stack (wine + dog), women-targeted, reusing the proven floral look so it
+extends the same collection and reduces mahjong dependency. Backup: women's-sass
+("Makes Me Say Bad Words", "Cinderella"). Trademark: all generic terms, no risk.
