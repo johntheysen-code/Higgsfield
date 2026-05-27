@@ -4,7 +4,7 @@
   "angle": "pickleball x mahjong (women's crossover)",
   "theme": "feminine floral crossover identity",
   "slogan": "PICKLEBALL & MAHJONG repeat",
-  "description": "Stacked hand-lettered slogan with crossed pickleball paddle + mahjong tile, framed by wildflowers. Sage/terracotta/mustard/cream palette.",
+  "description": "Stacked hand-lettering 'PICKLEBALL & MAHJONG / repeat'; sage cork-grip paddle, holed yellow pickleball ball, and an ivory mahjong tile with the 發 character and a small flower; wreath of poppies, daisies, and greenery on a cream background.",
   "keywords": [
     "pickleball and mahjong shirt",
     "funny pickleball mahjong women",
@@ -13,8 +13,8 @@
   ],
   "trademark_checked": true,
   "color_profile": 5,
-  "color_profile_note": "Confirmed after render: dark-green lettering + cream-background floral = white/light shirts only. Cream background must be knocked out to transparent during pipeline bg-removal.",
-  "source_model": "gpt_image_2",
-  "higgsfield_job_id": "e1f3d476-78fd-4663-bd81-65f8d8e46ad8",
-  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+  "color_profile_note": "Confirmed: dark-green lettering + cream-background floral = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
+  "source_model": "chatgpt",
+  "source_filename": "",
+  "asset_note": "External image remade in ChatGPT (replaces deleted Higgsfield job e1f3d476). Set source_filename to the exact file name as saved on the PC so scripts/handoff.py finds it; or save the file as pickleball-mahjong-repeat__p5.png for the exact-name match."
 }

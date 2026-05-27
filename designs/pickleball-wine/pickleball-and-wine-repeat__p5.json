@@ -4,7 +4,7 @@
   "angle": "pickleball x wine (women's retirement lifestyle)",
   "theme": "feminine floral crossover identity",
   "slogan": "PICKLEBALL & WINE repeat",
-  "description": "Stacked hand-lettering, paddle crossed with a red-wine glass and holed ball, wildflower frame. Sage/terracotta/burgundy/mustard/cream.",
+  "description": "Stacked hand-lettering 'PICKLEBALL & WINE / repeat'; sage cork-grip paddle, holed yellow pickleball ball, and a glass of red wine above; wreath of poppies, daisies, lavender, and greenery on a cream background.",
   "keywords": [
     "pickleball and wine shirt",
     "funny pickleball wine women",
@@ -14,7 +14,7 @@
   "trademark_checked": true,
   "color_profile": 5,
   "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
-  "source_model": "gpt_image_2",
-  "higgsfield_job_id": "3ce77237-9d5a-4271-917b-a8e6b75690e3",
-  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+  "source_model": "chatgpt",
+  "source_filename": "",
+  "asset_note": "External image remade in ChatGPT (replaces deleted Higgsfield job 3ce77237). Set source_filename to the exact file name as saved on the PC so scripts/handoff.py finds it; or save the file as pickleball-and-wine-repeat__p5.png for the exact-name match."
 }
