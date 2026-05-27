@@ -15,6 +15,7 @@
   "color_profile": 5,
   "color_profile_note": "Retro cream-background design with dark elements = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
   "source_model": "gpt_image_2",
-  "higgsfield_job_id": "d2b74bde-61f7-403d-832e-9e250ff061c6",
+  "higgsfield_job_id": "50afee66-dc75-4b3c-90fa-d61c9995295c",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
   "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py to land it in the pipeline inbox."
 }

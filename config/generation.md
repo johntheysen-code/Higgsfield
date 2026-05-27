@@ -25,15 +25,23 @@ Default to `gpt_image_2` for Merch tees, since most sellable designs have text.
 
 ## Background
 
-Higgsfield does not guarantee a transparent-background parameter. Two paths,
-both compatible with the downstream pipeline (which removes backgrounds in
-`needs-editing`):
+Higgsfield does not guarantee a transparent-background parameter, and the
+downstream pipeline removes backgrounds in `needs-editing`. So the background
+must be a **clean knockout color the remover can key out without eating the art**.
 
-1. **Preferred:** prompt for an isolated design with no scene/mockup. If the
-   model returns transparency, great — the pipeline detects it and skips removal.
-2. **Fallback:** prompt for the design on a **flat solid color not present in
-   the artwork** (e.g. a green or magenta field). This makes downstream removal
-   clean. NEVER use white if the design contains white.
+**Default: a flat solid knockout color NOT present anywhere in the artwork.**
+- **Use magenta (`#FF00FF`)** for our warm/floral palettes. It is absent from
+  sage/terracotta/mustard/cream/burgundy, so removal is unambiguous.
+- **Do NOT use green** for designs with foliage — our florals are full of green
+  leaves, so a green field would be removed along with the leaves.
+- **Never use white or cream.** Lesson learned the hard way: cream backgrounds
+  blend into light design elements (clear wine glass, ivory mahjong tile, cream
+  daisy petals), so the remover eats them or leaves halos. Low subject/background
+  contrast = bad matte.
+
+Transparency, if the model genuinely returns it, is fine too (the pipeline
+detects it and skips removal) — but don't rely on it; default to the magenta
+knockout.
 
 Always prompt: "design only, no t-shirt mockup, no model, no scene."
 
@@ -42,7 +50,9 @@ Always prompt: "design only, no t-shirt mockup, no model, no scene."
 ```
 A [style] t-shirt design: [concept]. Text reads "[EXACT SLOGAN]" in [type style].
 [Composition / color notes]. Isolated design only — no t-shirt mockup, no scene,
-no background objects. High-contrast, print-ready, centered.
+no background objects. Place the whole design on a flat solid magenta (#FF00FF)
+background that appears nowhere in the artwork, for clean background removal.
+High-contrast, print-ready, centered.
 ```
 
 - Put the slogan in quotes and state it once, exactly, to maximize legible text.
@@ -106,4 +116,7 @@ know exactly what's left to download.
 
 ## Notes / learnings
 
+- **Background-removal:** "plain flat background" prompts render as cream, which
+  blends into light design elements and removes badly. Always specify a magenta
+  (#FF00FF) knockout instead (green conflicts with foliage). See Background above.
 - (add prompt patterns, model quirks, and what sells as you discover them)
