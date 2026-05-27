@@ -106,10 +106,13 @@ Higgsfield names every download with its job-ID UUID
 script matches them by UUID, renames each image to the sidecar's `filename`, and
 copies image + sidecar into `inbox/`. So the human workflow is just:
 
-1. Download the approved images from the viewer (any names, any folder).
-2. `python3 scripts/handoff.py`  (inbox defaults to `C:\Users\Hello\pod-pipeline\inbox`;
-   flags: `--downloads`, `--inbox`, `--move`, `--dry-run`)
-3. Done — `inbox/` has correctly-named PNGs + matching sidecars. No manual renames.
+1. `git pull` this repo on the PC (gets the latest sidecars + this script).
+2. Download the approved images from the viewer (any names) into your Downloads folder.
+3. Run it from the repo root (inbox defaults to `C:\Users\Hello\pod-pipeline\inbox`):
+   - Windows CMD:  `python scripts\handoff.py`   (use `python`, not `python3`)
+   - macOS/Linux:  `python3 scripts/handoff.py`
+   - flags: `--downloads`, `--inbox`, `--move`, `--dry-run` (preview first)
+4. Done — `inbox/` has correctly-named PNGs + matching sidecars. No manual renames.
 
 It reports any sidecar whose image wasn't found in the downloads folder, so you
 know exactly what's left to download.
