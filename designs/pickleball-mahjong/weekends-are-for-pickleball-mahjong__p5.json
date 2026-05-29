@@ -15,6 +15,7 @@
   "color_profile": 5,
   "color_profile_note": "Dark-on-cream lettering = white/light shirts only. Cream background knocked out to transparent during pipeline bg-removal.",
   "source_model": "gpt_image_2",
-  "higgsfield_job_id": "8ab1b298-18cb-401d-97ba-03e8e75d7255",
-  "asset_note": "PNG hosted at Higgsfield. Download locally and place in PIPELINE_WORKING_DIR/inbox/."
+  "higgsfield_job_id": "0844142b-95a9-4981-ab2e-4ba1dff5ebd6",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Replaces failed job 8ab1b298 which never rendered."
 }
