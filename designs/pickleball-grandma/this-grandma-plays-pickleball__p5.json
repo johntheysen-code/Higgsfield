@@ -1,0 +1,21 @@
+{
+  "filename": "this-grandma-plays-pickleball__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x grandma (untapped gap: 'Grandpa' sells, 'Grandma' absent in CSV)",
+  "theme": "feminine floral grandmother identity / gift",
+  "slogan": "This Grandma Plays Pickleball",
+  "description": "Stacked 'THIS GRANDMA PLAYS PICKLEBALL' with a paddle, holed ball, hearts, and wildflower frame. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "this grandma plays pickleball",
+    "pickleball grandma shirt",
+    "pickleball grandmother gift",
+    "funny pickleball women"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "72070df6-071e-4750-a5db-03ab543e1017",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

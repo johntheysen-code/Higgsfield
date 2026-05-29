@@ -59,3 +59,10 @@ angle. Findings, ranked by BSR (lower = more sales):
 lifestyle stack (wine + dog), women-targeted, reusing the proven floral look so it
 extends the same collection and reduces mahjong dependency. Backup: women's-sass
 ("Makes Me Say Bad Words", "Cinderella"). Trademark: all generic terms, no risk.
+
+## Angle 3 (2026-05-29): Pickleball × Grandma (testing the gap)
+Acting on the gap noted above: "Grandpa" appears 4× in the CSV (selling), "Grandma"
+**0×** despite a female-skewing niche. Testing it with grandmother-identity / gift
+designs on the proven floral look: "Pickleball Nana" and "This Grandma Plays
+Pickleball". Speculative (absence may mean low demand), but cheap to test and the
+buyer overlaps our 50+ women audience exactly. Trademark: generic, no risk.

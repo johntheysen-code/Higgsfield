@@ -1,0 +1,21 @@
+{
+  "filename": "pickleball-nana__p5.png",
+  "niche": "pickleball",
+  "angle": "pickleball x grandma (untapped gap: 'Grandpa' sells, 'Grandma' absent in CSV)",
+  "theme": "feminine floral grandmother identity / gift",
+  "slogan": "Pickleball Nana",
+  "description": "Hand-lettered 'PICKLEBALL NANA' with a paddle + holed ball inside a wildflower wreath. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "pickleball nana shirt",
+    "pickleball grandma gift",
+    "pickleball grandmother tee",
+    "funny pickleball women"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "5afb2c85-b2f6-40bf-a775-4c8bbc3710c8",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}
