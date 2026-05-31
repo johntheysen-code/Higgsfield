@@ -87,6 +87,12 @@ Write `niche-research/<niche>.md` containing:
 
 Then hand the chosen concept to the generation step (`config/generation.md`).
 
+**Important:** picking the niche + angle is only half. Before *any* image is
+generated, the chosen **slogan** must pass the **Slogan validation gate**
+documented in `config/generation.md`. Generic puns or invented slogans that
+don't match the format pattern of the niche's top sellers are the most common
+way to waste credits on dead designs — even when the angle and visual are right.
+
 ---
 
 ## Worked example (no-data / reasoned mode)

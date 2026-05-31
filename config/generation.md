@@ -59,6 +59,53 @@ High-contrast, print-ready, centered.
 - Specify a limited color palette (cleaner prints, better background removal).
 - Name a concrete art style (kawaii, retro 70s, bold vintage, line art, etc.).
 
+## Slogan validation gate (MANDATORY before any generate_image call)
+
+Picking the *angle* from the data is not enough. The **slogan itself** must pass
+the same data-driven check, or the design enters a saturated/dead lane no matter
+how good the visual is. This step is non-optional.
+
+For every slogan, run all four checks against the niche CSV:
+
+1. **Exact-string search.** Grep the slogan in the CSV's Product Title column.
+   - 3+ existing listings using the exact slogan → **saturated, skip or sharpen.**
+   - 1–2 existing → check their BSR. If selling, you're entering a proven lane
+     (good); if dead, the slogan format itself doesn't convert (skip).
+2. **Close-variant search.** Grep the *pattern* (e.g. "Rules the X", "X
+   Whisperer", "Just A Girl Who Loves X"). If many variants exist across
+   adjacent words, the *format* is saturated even if your exact phrase isn't.
+3. **Format-category check.** Sort the niche's top 25 selling listings by BSR.
+   What slogan *categories* dominate?
+   - Pure descriptive titles (no clever slogan, e.g. "Rooster Wearing Sunglasses")
+   - Specific identity ("Just A Girl Who Loves X", "X Grandma", "X Nerd")
+   - Self-deprecating humor / ownership ("MY X Has an Attitude Problem")
+   - Generic puns ("Rules the X", "X Whisperer") ← almost always saturated
+   Your slogan should fit a category that **appears in the top 25**, not one
+   that's absent (absence = the market doesn't reward it).
+4. **Mirror vs invent decision.**
+   - **Default: mirror.** When entering a *validated* niche (one you have a
+     scored CSV for), mirror a slogan format that's already winning. Inventing
+     a new slogan in a niche you don't own is high-risk, low-evidence.
+   - **Invent only when** the data shows a clear gap *and* you can articulate
+     why no one's filled it. Document the reasoning in the sidecar.
+
+**Hard rule:** if a slogan fails check #1 or #3, do not generate it. Pick a
+different slogan from the data and re-run the gate.
+
+### Worked example of how to fail this gate
+
+Niche: chicken-keeper. Proposed slogan: "Rules the Roost".
+- Check #1: not in CSV. Pass.
+- Check #2: generic-pun pattern ("Rules the X" / "X Whisperer" / "X Tender")
+  appears repeatedly in chicken puns. **Pattern saturated.**
+- Check #3: top sellers are either (a) descriptive titles around the visual
+  ("Rooster Wearing Sunglasses Photobooth Selfie") or (b) specific identity
+  ("Just A Girl Who Loves Chickens"). Generic puns are absent from the top
+  performers. **Wrong category.**
+- Verdict: **fail.** Better choice: an identity-driven slogan like
+  "HEAD OF SECURITY" (job-title humor + ownership) or skip the slogan and use
+  a descriptive title around the visual.
+
 ## Output file contract (what the pipeline's inbox/ expects)
 
 For each chosen design, write to `designs/<niche>/`:
