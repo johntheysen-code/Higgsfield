@@ -1,0 +1,21 @@
+{
+  "filename": "just-a-girl-who-loves-chickens__p5.png",
+  "niche": "chicken-keeper",
+  "angle": "'Just A Girl Who Loves X' identity format (BSR 427K 2026-04 floral winner)",
+  "theme": "feminine floral chicken-keeper identity",
+  "slogan": "Just A Girl Who Loves Chickens",
+  "description": "Stacked hand-lettering 'JUST A GIRL / WHO LOVES / CHICKENS' with a cute buff hen in a wildflower wreath, eggs nestled among the flowers. Sage/terracotta/mustard/cream + copper hen.",
+  "keywords": [
+    "just a girl who loves chickens",
+    "chicken keeper shirt women",
+    "backyard chicken lover gift",
+    "floral chicken tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "d92f0d6f-dac1-4e78-a4bd-251d50451a9a",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}
