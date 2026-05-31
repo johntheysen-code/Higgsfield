@@ -1,0 +1,19 @@
+{
+  "filename": "i-like-birds-hummingbird__p4.png",
+  "niche": "birding",
+  "angle": "minimalist line-art bird (BSR 384K aesthetic) + 'I Like Birds' proven slogan (BSR 373K), Hummingbird species variant",
+  "theme": "premium minimalist gallery-print feel — Hummingbird, dark shirts (inverted)",
+  "slogan": "I Like Birds",
+  "description": "Minimalist continuous-line hummingbird mid-hover, cream/off-white lines with a single warm accent on the throat/breast, 'I LIKE BIRDS' cream sans-serif beneath. Inverted color treatment for dark-shirt color profile.",
+  "keywords": [
+    "i like birds hummingbird shirt",
+    "minimalist hummingbird line art tee",
+    "modern bird watcher gift",
+    "hummingbird line drawing"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Cream/light line art = black/dark shirts only (the inverted twin of __p5).",
+  "source_model": "kittl",
+  "asset_note": "Designed in Kittl. Save the PNG in Downloads with the exact name in `filename` so handoff.py's exact-name match picks it up automatically. Background can be transparent or a clean magenta (#FF00FF) knockout."
+}
