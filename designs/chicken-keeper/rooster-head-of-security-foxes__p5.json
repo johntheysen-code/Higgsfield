@@ -1,0 +1,40 @@
+{
+  "filename": "rooster-head-of-security-foxes__p5.png",
+  "niche": "chicken-keeper",
+  "angle": "rooster-with-sunglasses humor + story-driven secondary (villain framing)",
+  "theme": "v4 — same badge composition as v2, secondary line introduces the fox villain to test 'stories outperform titles' hypothesis",
+  "slogan": "HEAD OF SECURITY / Zero Tolerance for Foxes",
+  "description": "Same rooster + sunglasses + shield badge as v2, but secondary banner becomes 'Zero Tolerance for Foxes' to introduce the villain element. Burnt orange / mustard / deep red / cream / black retro palette.",
+  "keywords": [
+    "head of security zero tolerance foxes",
+    "funny rooster sunglasses foxes",
+    "chicken keeper security humor",
+    "rooster guarding flock foxes",
+    "no foxes coop tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "c840892f-eb1b-4f0f-9484-fa41283caa69",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "role identity + niche-specific villain story",
+    "format_category_present_in_top_sellers": true,
+    "format_category_evidence": "Role/identity is a load-bearing category in chicken-keeper top sellers; villain-framing absent from data but adds story dimension to a proven role-identity slogan",
+    "cross_niche_template_check": "primary 'HEAD OF SECURITY' is template; secondary 'Zero Tolerance for Foxes' anchors strongly to chicken niche via the fox-villain (foxes are the canonical chicken-coop predator) - combined PASS",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Foxes",
+    "mirror_or_invent": "hybrid (mirror role-identity format + invent story-driven niche-specific secondary)",
+    "invent_reasoning": "Tests ChatGPT's 'stories outperform titles' hypothesis directly. v2 has descriptive secondary ('Protecting the Coop'); v4 has narrative/villain secondary ('Zero Tolerance for Foxes'). Same visual composition controls for art quality. The fourth A/B variable in the rooster series."
+  },
+  "design_feedback_disposition": {
+    "story_driven_secondary": "APPLIED — fox villain introduces narrative",
+    "more_intimidating_rooster": "SKIPPED (third time) — data winner sells on swagger, ChatGPT's intimidation preference is aesthetic not data-backed",
+    "ten_to_twenty_variants": "SKIPPED — same wait-for-signal trap, codified in gate rules",
+    "cocky_by_nature_alternative": "FLAGGED FOR USER — Amazon content-policy risk on 'cocky' applied to rooster (innuendo). Excluded from generation queue."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Fourth variant in the Head of Security A/B series: v1 (template) / v2 (anchored descriptive) / v3 (anchored simplified) / v4 (anchored story-driven villain)."
+}
