@@ -1,0 +1,21 @@
+{
+  "filename": "i-just-want-to-crochet-and-my-dog__p5.png",
+  "niche": "crochet",
+  "angle": "crochet x dog (rising 2026 wave, mirrors BSR 583K winner)",
+  "theme": "feminine floral hobby + companion identity",
+  "slogan": "I Just Want to Crochet & Hang Out With My Dog",
+  "description": "Stacked hand-lettering with a cute simple dog, yarn ball + crochet hook, hearts, and wildflower frame. Sage/terracotta/mustard/cream.",
+  "keywords": [
+    "i just want to crochet and hang out with my dog",
+    "funny crochet dog lover shirt",
+    "crochet women gift",
+    "crochet and dogs"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "1b92828c-5fcd-4024-b639-6d2cf989686e",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}
