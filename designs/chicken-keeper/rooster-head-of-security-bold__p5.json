@@ -1,0 +1,30 @@
+{
+  "filename": "rooster-head-of-security-bold__p5.png",
+  "niche": "chicken-keeper",
+  "angle": "rooster-with-sunglasses humor (BSR 320K + comp 129 LOW = cleanest single signal in dataset)",
+  "theme": "thumbnail-optimized simplification of v2 (Head of Security + Protecting the Coop) for Amazon small-size readability",
+  "slogan": "HEAD OF SECURITY / Protecting the Coop",
+  "description": "Simplified cropped head-and-chest rooster with sunglasses, bold flat shapes, minimal feather detail, no badge frame or sunburst. Same slogan as v2 but designed to hold up at Amazon thumbnail size. Burnt orange / mustard / deep red / cream / black retro palette.",
+  "keywords": [
+    "head of security protecting the coop bold",
+    "funny rooster sunglasses simple",
+    "chicken keeper humor minimal",
+    "rooster guarding coop tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "5ef8b3b1-24e3-4fbf-80dc-e9ca19843631",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Identical slogan to rooster-head-of-security-coop__p5 (v2). Validation evidence carried over from that sidecar."
+  },
+  "design_feedback_disposition": {
+    "secondary_punchline_added": true,
+    "secondary_punchline_value": "Protecting the Coop (keyword: Coop)",
+    "rooster_more_aggressive": "SKIPPED — data winner sells on swagger not aggression; ChatGPT preference here is aesthetic not data-backed",
+    "thumbnail_simplification": "APPLIED — cropped head-and-chest, removed badge frame and sunburst, minimal feathers, bolder text. Tests thumbnail-readability as an isolated variable vs v2."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Paired with v2 (rooster-head-of-security-coop__p5) for in-market A/B on thumbnail simplification."
+}
