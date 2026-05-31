@@ -1,0 +1,31 @@
+{
+  "filename": "just-a-girl-who-loves-chickens-bold__p5.png",
+  "niche": "chicken-keeper",
+  "angle": "'Just A Girl Who Loves X' identity format (BSR 427K 2026-04 floral winner)",
+  "theme": "thumbnail-optimized B-version of just-a-girl-who-loves-chickens — hen as the hero, simplified text hierarchy, floral accents instead of full wreath",
+  "slogan": "Just A Girl Who Loves CHICKENS",
+  "description": "Large central hero hen with 2-line text below: smaller 'Just A Girl Who Loves' script + huge 'CHICKENS' bold serif. Florals reduced to a bottom-edge accent spray (not a full wreath) so the chicken stays visible at thumbnail size. Sage/terracotta/mustard/cream + copper hen palette.",
+  "keywords": [
+    "just a girl who loves chickens bold",
+    "chicken mom shirt women large",
+    "backyard chicken lover gift",
+    "farmhouse chicken tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "ebdfe69f-86ad-4023-adf3-67fe63db6fcb",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Same slogan as just-a-girl-who-loves-chickens__p5 (v1). Validation evidence carried over."
+  },
+  "design_feedback_disposition": {
+    "thumbnail_simplification": "APPLIED — larger hen, simpler 2-line text hierarchy, accent florals not full wreath",
+    "chicken_as_hero": "APPLIED — hen takes ~55% of design height vs ~35% in v1",
+    "chicken_mom_alone_slogan": "SKIPPED — fails new gate (cross-niche template + <=3-word generic, no secondary hook proposed)",
+    "my_therapy_has_feathers_slogan": "SKIPPED — invented slogan with no data evidence; 'Therapy' angle median BSR is 1.9M in adjacent niche (crochet) = dead-zone signal",
+    "five_to_ten_alternative_sayings": "SKIPPED — violates wait-for-signal principle codified in slogan-validation gate updates"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Paired with v1 (just-a-girl-who-loves-chickens__p5) for in-market A/B on thumbnail-readability vs detail-richness."
+}
