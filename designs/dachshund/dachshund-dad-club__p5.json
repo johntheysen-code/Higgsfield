@@ -1,0 +1,36 @@
+{
+  "filename": "dachshund-dad-club__p5.png",
+  "niche": "dachshund",
+  "angle": "Father's Day identity / club-badge format (mirrors BSR 267K Excellent winner)",
+  "theme": "modern bold club emblem for Dachshund-owning dads",
+  "slogan": "Dachshund Dad Club",
+  "description": "Confident cartoon dachshund hero element with 'DACHSHUND DAD CLUB' chunky badge lettering and small membership accents (star, ribbon). Copper/cream/navy/mustard masculine palette.",
+  "keywords": [
+    "dachshund dad club shirt",
+    "doxie dad fathers day gift",
+    "wiener dog dad tee",
+    "dachshund owner men shirt"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "40a9516f-33bf-4c1a-93d8-496cdd899c50",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr": 267057,
+    "exact_match_rating": "Excellent",
+    "variant_pattern_match": 0,
+    "format_category": "identity / role (Mom/Dad/Mama)",
+    "format_category_pct_of_top_25": "17%",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "PASS - 'Dachshund Dad Club' is breed-anchored; the niche keyword is inside the slogan itself",
+    "secondary_hook_present": false,
+    "secondary_hook_needed": false,
+    "secondary_hook_reasoning": "Slogan already contains the niche-anchor keyword ('Dachshund'), so check #5 does not apply",
+    "mirror_or_invent": "mirror (BSR 267K Excellent listing)",
+    "mirror_reasoning": "Top-3 BSR seller in the niche; entering a validated lane with direct mirror"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

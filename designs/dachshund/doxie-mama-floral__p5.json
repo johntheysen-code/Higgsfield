@@ -1,0 +1,36 @@
+{
+  "filename": "doxie-mama-floral__p5.png",
+  "niche": "dachshund",
+  "angle": "feminine 'X Mama' identity + floral (mirrors BSR 396K Good winner 'Floral Dachshund...Doxie Mama Women')",
+  "theme": "feminine soft-farmhouse identity (same aesthetic family as our Just A Girl Who Loves Chickens)",
+  "slogan": "Doxie Mama",
+  "description": "Cute friendly dachshund as hero element with 'DOXIE / MAMA' stacked lettering, delicate wildflower accents and tiny heart. Sage/terracotta/mustard/cream + warm copper dachshund palette.",
+  "keywords": [
+    "doxie mama shirt",
+    "dachshund mom floral tee",
+    "wiener dog mama gift",
+    "doxie mom women shirt"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "0bc9ea8d-c4e4-4ae8-a92f-c0ddd24b3da6",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr": 396857,
+    "exact_match_rating": "Good",
+    "variant_pattern_match": 0,
+    "format_category": "identity / role (Mom/Dad/Mama)",
+    "format_category_pct_of_top_25": "17%",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "PASS - 'Doxie' is a breed-specific term; the niche keyword is inside the slogan",
+    "secondary_hook_present": false,
+    "secondary_hook_needed": false,
+    "secondary_hook_reasoning": "Slogan contains breed-anchor keyword ('Doxie'), so check #5 does not apply",
+    "mirror_or_invent": "mirror (BSR 396K Good listing)",
+    "mirror_reasoning": "Existing floral 'Doxie Mama' is a proven seller; reusing our floral aesthetic from Just A Girl Who Loves Chickens transfers cleanly"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

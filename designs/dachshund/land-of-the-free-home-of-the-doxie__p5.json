@@ -1,0 +1,34 @@
+{
+  "filename": "land-of-the-free-home-of-the-doxie__p5.png",
+  "niche": "dachshund",
+  "angle": "patriotic / 4th of July (mirrors the niche's #1 seller BSR 140K format, with sharper slogan)",
+  "theme": "patriotic American with Star-Spangled Banner pun payoff (public domain reference)",
+  "slogan": "LAND OF THE FREE / HOME OF THE DOXIE",
+  "description": "Cute dachshund with American flag accents (small bandana, stars) and bold 'LAND OF THE FREE / HOME OF THE DOXIE' patriotic lettering. Deep red / navy / cream / copper palette.",
+  "keywords": [
+    "land of the free home of the doxie",
+    "dachshund 4th of july shirt",
+    "doxie patriotic tee",
+    "wiener dog american flag"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering + flat fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "6a7030e8-5854-48a0-9d55-7058e813633b",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "patriotic / 4th of July",
+    "format_category_pct_of_top_25": "11%",
+    "format_category_present_in_top_sellers": true,
+    "format_category_evidence": "BSR 140K (the niche #1) and BSR 341K + 451K are all patriotic/American-flag listings - the category is consistently winning",
+    "cross_niche_template_check": "'Land of the Free / Home of the X' is a known generic patriotic format template (works for any group), so primary fails template check; secondary 'Home of the Doxie' contains niche-anchor 'Doxie' which addresses check #5",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Doxie",
+    "mirror_or_invent": "invent (slogan absent from CSV; format category proven)",
+    "invent_reasoning": "Patriotic category is the niche's strongest by best-BSR (140K). The Star-Spangled Banner reference is public domain. Slogan structure is a known patriotic-pun format with breed-specific payoff - tests a sharper-slogan variant of the descriptive-title pattern that the BSR 140K winner used."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Patriotic seasonal timing: 4th of July is ~5 weeks out from generation date (2026-05-31), good window for listing + ranking before peak buying."
+}
