@@ -1,0 +1,21 @@
+{
+  "filename": "i-like-birds-minimalist__p5.png",
+  "niche": "birding",
+  "angle": "minimalist line-art bird (top-performing aesthetic, BSR 384K)",
+  "theme": "premium minimalist gallery-print feel",
+  "slogan": "I Like Birds",
+  "description": "Single elegant continuous-line songbird on a twig, dark navy with a single warm accent. Clean 'I LIKE BIRDS' sans-serif beneath. Lots of breathing room. Very limited palette.",
+  "keywords": [
+    "i like birds minimalist shirt",
+    "minimalist bird art tee",
+    "modern bird lover gift",
+    "line art bird"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark navy lettering and art on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "30a53e0c-1868-4ecb-af4d-93fc7dbe1a53",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

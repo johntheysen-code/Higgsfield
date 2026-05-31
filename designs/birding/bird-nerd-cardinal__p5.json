@@ -1,0 +1,21 @@
+{
+  "filename": "bird-nerd-cardinal__p5.png",
+  "niche": "birding",
+  "angle": "bird-nerd + species (modular proven format, 23 variants in data)",
+  "theme": "modern field-guide identity for birders",
+  "slogan": "BIRD NERD — Cardinal",
+  "description": "Bold 'BIRD NERD' lettering with serif 'Cardinal' subtitle and a stylized field-guide male Northern Cardinal on a branch. Cardinal red / forest green / cream palette with navy outlines.",
+  "keywords": [
+    "bird nerd cardinal shirt",
+    "cardinal birding gift",
+    "red cardinal bird watcher tee",
+    "funny bird nerd"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light artwork = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "b2a0bf84-31c2-49a5-a172-027370a70129",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}
