@@ -1,0 +1,39 @@
+{
+  "filename": "dachshund-squirrel-surveillance-team__p5.png",
+  "niche": "dachshund",
+  "angle": "authority/role humor (squirrel surveillance = canonical breed prey)",
+  "theme": "vintage-badge with story-driven role, simplified vs the external concept for Amazon thumbnail readability",
+  "slogan": "OFFICIAL SQUIRREL SURVEILLANCE TEAM / 24/7 Monitoring",
+  "description": "Cartoon dachshund with simple binoculars (face still visible) in clean vintage badge frame, 'SQUIRREL SURVEILLANCE TEAM' chunky vintage serif + '24/7 Monitoring' secondary. Olive/cream/brown/mustard vintage palette.",
+  "keywords": [
+    "dachshund squirrel surveillance shirt",
+    "doxie squirrel patrol funny",
+    "wiener dog watch tee",
+    "dachshund authority gift",
+    "vintage dachshund badge"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + vintage fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "9b24ee3b-50ad-46f3-bc99-2901d19075bc",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "authority/role humor (humor 33% + identity 17% hybrid)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_evidence": "Same load-bearing humor+identity categories as the other authority designs. Squirrels-and-dachshunds is breed-canonical (the parallel of foxes-and-chickens that worked in chicken-keeper).",
+    "cross_niche_template_check": "'Surveillance Team' is template; 'Squirrel' anchors it to dachshund via canonical breed prey",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Squirrel (in primary), 24/7 Monitoring (generic story hook)",
+    "mirror_or_invent": "hybrid (mirror external concept + simplify composition + improve thumbnail readability)",
+    "mirror_reasoning": "External GPT design's composition was too busy for Amazon thumbnail (binoculars covered the dachshund's face, full forest scene crowded the badge). My version keeps the breed-canonical squirrel-villain framing but simplifies: face visible, minimal accents, cleaner badge."
+  },
+  "design_feedback_disposition": {
+    "external_concept_busy_composition": "ADDRESSED - face fully visible, forest backdrop minimized, cleaner badge frame",
+    "external_concept_thumbnail_risk": "ADDRESSED - prompt explicitly requests thumbnail-readable composition",
+    "external_concept_strong_storytelling": "PRESERVED - binoculars + Surveillance Team + 24/7 Monitoring keep the story-element-in-visual that made the original concept strong"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. 6th dachshund design - companion to Head of Security / Squirrels (same villain anchor, different role frame)."
+}
