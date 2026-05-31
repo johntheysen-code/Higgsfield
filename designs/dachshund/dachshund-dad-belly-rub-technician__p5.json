@@ -1,0 +1,39 @@
+{
+  "filename": "dachshund-dad-belly-rub-technician__p5.png",
+  "niche": "dachshund",
+  "angle": "Dad identity + story-driven secondary hook (v2 of Dachshund Dad Club, tests template-vs-template-with-story)",
+  "theme": "Father's Day identity humor with niche-specific secondary",
+  "slogan": "DACHSHUND DAD / Official Belly Rub Technician",
+  "description": "Same dachshund + bold dad identity as Dad Club v1, but secondary becomes 'Official Belly Rub Technician' - story-driven role humor that creates a second smile. Copper/cream/navy/mustard palette.",
+  "keywords": [
+    "dachshund dad belly rub technician",
+    "doxie dad funny shirt",
+    "wiener dog fathers day gift",
+    "dachshund owner humor"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "3ee8bb94-32cf-4f07-ba7c-5da615fc9fd0",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "identity (17%) + humor (33%) hybrid - both load-bearing",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "primary 'Dachshund Dad' is breed-anchored via 'Dachshund' keyword; secondary 'Belly Rub Technician' is universal-dog humor but pairs with the niche-specific primary",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "primary contains 'Dachshund' (niche-anchored)",
+    "mirror_or_invent": "hybrid - mirrors Dad Club proven format + invents stronger story-driven secondary that addresses gate check #5",
+    "mirror_reasoning": "Same A/B pattern as the rooster series: v1 = template alone (Dad Club), v2 = template + story-driven secondary (Belly Rub Technician). Tests whether story-secondary outperforms naked template, same way HoS+Foxes was the v4 of HoS. The BSR 267K seller is 'Dachshund Dad Club' alone (no story) - this version tests whether we can do better than that proven baseline."
+  },
+  "design_feedback_disposition": {
+    "gpt_critique_dad_club_no_story": "ADDRESSED - secondary hook adds story/role humor",
+    "gpt_suggested_belly_rub_technician": "APPLIED directly",
+    "gpt_suggested_professional_ball_thrower": "QUEUED as alternative if Belly Rub Technician underperforms",
+    "gpt_suggested_snack_provider_since_year": "QUEUED - year-specificity adds personalization but locks to single year",
+    "data_mirror_dad_club_alone": "PRESERVED - Dad Club v1 still in the batch as direct BSR 267K mirror; this is the v2 test, not a replacement"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. 7th dachshund design. Paired with dachshund-dad-club__p5 for v1-vs-v2 A/B on story-secondary hypothesis (parallels rooster-head-of-security v1-vs-v2). This is the LAST dachshund generation until sales signal returns."
+}
