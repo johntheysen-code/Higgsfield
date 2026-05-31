@@ -1,0 +1,34 @@
+{
+  "filename": "rooster-head-of-security-coop__p5.png",
+  "niche": "chicken-keeper",
+  "angle": "rooster-with-sunglasses humor (BSR 320K + comp 129 LOW = cleanest single signal in dataset)",
+  "theme": "bold retro cartoon with secondary niche-anchored hook (v2 of HEAD OF SECURITY family)",
+  "slogan": "HEAD OF SECURITY / Protecting the Coop",
+  "description": "Same rooster + sunglasses + badge as v1, but with secondary italic subtitle 'Protecting the Coop' anchoring the slogan to the chicken-keeper niche. Burnt orange / mustard / deep red / cream / black retro palette.",
+  "keywords": [
+    "head of security protecting the coop",
+    "funny rooster sunglasses coop",
+    "chicken keeper security humor",
+    "backyard chicken funny shirt coop",
+    "rooster guarding the coop"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "27b32fdb-0716-4afd-8b0f-56ea4e4c5088",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "ownership/role identity + niche-anchored secondary",
+    "format_category_present_in_top_sellers": true,
+    "format_category_evidence": "Role identity family (Chicken Daddy 6 listings median 465K, Just A Girl Who Loves Chickens BSR 427K) is a load-bearing category in chicken-keeper top sellers",
+    "cross_niche_template_check": "primary 'HEAD OF SECURITY' fails (works for any animal); secondary 'Protecting the Coop' anchors to chicken niche -- combined PASS",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Coop",
+    "mirror_or_invent": "hybrid (mirror role-identity format + invent niche-specific secondary)",
+    "invent_reasoning": "Top sellers cluster on descriptive titles + role/ownership identity. The 3-word headline 'HEAD OF SECURITY' on its own is a cross-niche template; the 'Protecting the Coop' subtitle adds the chicken-specific keyword anchor required by gate check #5. Tests differentiated v2 against v1 (no secondary hook) in market."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. v2 paired with rooster-head-of-security__p5 (v1) for direct in-market comparison of template vs niche-anchored variants."
+}
