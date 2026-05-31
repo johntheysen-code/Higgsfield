@@ -1,0 +1,19 @@
+{
+  "filename": "i-like-birds-blue-jay__p5.png",
+  "niche": "birding",
+  "angle": "minimalist line-art bird (BSR 384K aesthetic) + 'I Like Birds' proven slogan (BSR 373K), Blue Jay species variant",
+  "theme": "premium minimalist gallery-print feel — Blue Jay, light shirts",
+  "slogan": "I Like Birds",
+  "description": "Minimalist continuous-line Blue Jay on a thin twig, dark navy lines with a slate-blue accent on the crest/wing, 'I LIKE BIRDS' minimal sans-serif beneath. Light-shirt color profile.",
+  "keywords": [
+    "i like birds blue jay shirt",
+    "minimalist blue jay line art tee",
+    "modern bird watcher gift",
+    "blue jay line drawing"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark line art on light background = white/light shirts only.",
+  "source_model": "kittl",
+  "asset_note": "Designed in Kittl. Save the PNG in Downloads with the exact name in `filename` so handoff.py's exact-name match picks it up automatically. Background can be transparent or a clean magenta (#FF00FF) knockout."
+}

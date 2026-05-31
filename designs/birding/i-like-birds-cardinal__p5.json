@@ -1,0 +1,19 @@
+{
+  "filename": "i-like-birds-cardinal__p5.png",
+  "niche": "birding",
+  "angle": "minimalist line-art bird (BSR 384K aesthetic) + 'I Like Birds' proven slogan (BSR 373K), Cardinal species variant",
+  "theme": "premium minimalist gallery-print feel — Cardinal, light shirts",
+  "slogan": "I Like Birds",
+  "description": "Minimalist continuous-line Northern Cardinal on a thin twig, dark navy lines with a cardinal-red accent, 'I LIKE BIRDS' minimal sans-serif beneath. Light-shirt color profile.",
+  "keywords": [
+    "i like birds cardinal shirt",
+    "minimalist cardinal line art tee",
+    "modern bird watcher gift",
+    "cardinal line drawing"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark line art on light background = white/light shirts only.",
+  "source_model": "kittl",
+  "asset_note": "Designed in Kittl. Save the PNG in Downloads with the exact name in `filename` so handoff.py's exact-name match picks it up automatically. Background can be transparent or a clean magenta (#FF00FF) knockout."
+}
