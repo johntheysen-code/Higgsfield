@@ -65,7 +65,7 @@ Picking the *angle* from the data is not enough. The **slogan itself** must pass
 the same data-driven check, or the design enters a saturated/dead lane no matter
 how good the visual is. This step is non-optional.
 
-For every slogan, run all four checks against the niche CSV:
+For every slogan, run all six checks against the niche CSV:
 
 1. **Exact-string search.** Grep the slogan in the CSV's Product Title column.
    - 3+ existing listings using the exact slogan → **saturated, skip or sharpen.**
@@ -74,37 +74,69 @@ For every slogan, run all four checks against the niche CSV:
 2. **Close-variant search.** Grep the *pattern* (e.g. "Rules the X", "X
    Whisperer", "Just A Girl Who Loves X"). If many variants exist across
    adjacent words, the *format* is saturated even if your exact phrase isn't.
-3. **Format-category check.** Sort the niche's top 25 selling listings by BSR.
-   What slogan *categories* dominate?
-   - Pure descriptive titles (no clever slogan, e.g. "Rooster Wearing Sunglasses")
-   - Specific identity ("Just A Girl Who Loves X", "X Grandma", "X Nerd")
-   - Self-deprecating humor / ownership ("MY X Has an Attitude Problem")
-   - Generic puns ("Rules the X", "X Whisperer") ← almost always saturated
-   Your slogan should fit a category that **appears in the top 25**, not one
-   that's absent (absence = the market doesn't reward it).
-4. **Mirror vs invent decision.**
+3. **Format-category check.** Use the market structure % from
+   `niche-scoring.md` Step 3.5b. Your slogan's category must be **≥10% of the
+   top 25 by BSR**. Categories at 0–4% are dead — the market is telling you it
+   doesn't reward them. Generic puns are almost always in that bucket.
+4. **Cross-niche template check (added 2026-05-31).** Ask: does this slogan
+   work *equally well* with any animal/profession/identity swapped in? If yes,
+   it's a generic template, not niche-specific.
+   - "Head of Security" → works for dog, cat, goose, chicken → **template.**
+   - "I Just Want to Crochet and Hang Out With My Dog" → specific to the craft
+     + companion combo → **niche-anchored.**
+   - Templates can still be shipped, but only if either (a) the *visual* is
+     load-bearing and differentiated, or (b) you add a secondary niche-specific
+     hook (see check #5). Pure template + generic visual = race-to-the-bottom.
+5. **Secondary-hook requirement for short slogans (≤3 words).** Short slogans
+   are too small a search-keyword surface and too generic to differentiate on
+   their own. If the primary slogan is ≤3 words AND failed the cross-niche
+   template check, add a niche-specific secondary line.
+   - Weak:  `HEAD OF SECURITY`
+   - Strong: `HEAD OF SECURITY / Protecting the Coop`
+   - The secondary line must contain at least one niche-specific keyword
+     (coop / flock / hens / sunrise / rooster) to lift Amazon SEO.
+6. **Mirror vs invent decision.**
    - **Default: mirror.** When entering a *validated* niche (one you have a
      scored CSV for), mirror a slogan format that's already winning. Inventing
      a new slogan in a niche you don't own is high-risk, low-evidence.
    - **Invent only when** the data shows a clear gap *and* you can articulate
-     why no one's filled it. Document the reasoning in the sidecar.
+     why no one's filled it. Document the reasoning in the sidecar's
+     `slogan_validation` block.
 
-**Hard rule:** if a slogan fails check #1 or #3, do not generate it. Pick a
-different slogan from the data and re-run the gate.
+**Hard rules:**
+- If a slogan fails check #1 or #3, do not generate it. Pick a different slogan
+  from the data and re-run the gate.
+- If a slogan fails check #4 (cross-niche template), it must pass check #5
+  (secondary hook) before generation. No exceptions for ≤3-word generic templates.
 
-### Worked example of how to fail this gate
+### Worked example #1 — "Rules the Roost" (fails on category)
 
 Niche: chicken-keeper. Proposed slogan: "Rules the Roost".
-- Check #1: not in CSV. Pass.
-- Check #2: generic-pun pattern ("Rules the X" / "X Whisperer" / "X Tender")
-  appears repeatedly in chicken puns. **Pattern saturated.**
-- Check #3: top sellers are either (a) descriptive titles around the visual
-  ("Rooster Wearing Sunglasses Photobooth Selfie") or (b) specific identity
-  ("Just A Girl Who Loves Chickens"). Generic puns are absent from the top
-  performers. **Wrong category.**
-- Verdict: **fail.** Better choice: an identity-driven slogan like
-  "HEAD OF SECURITY" (job-title humor + ownership) or skip the slogan and use
-  a descriptive title around the visual.
+- #1 Exact: not in CSV. Pass.
+- #2 Variant: generic-pun pattern ("Rules the X" / "X Whisperer" / "X Tender")
+  appears repeatedly. **Pattern saturated.**
+- #3 Format-category: generic puns are <5% of the top 25 sellers
+  (the dominant categories are descriptive-visual + specific identity).
+  **Wrong category.**
+- Verdict: **fail.** Don't generate.
+
+### Worked example #2 — "Head of Security" (fails the template check, passes with a fix)
+
+Niche: chicken-keeper. Proposed slogan: "HEAD OF SECURITY".
+- #1 Exact: 0 hits. Pass.
+- #2 Variant: not present in close-variants. Pass.
+- #3 Format-category: ownership/role identity (same family as "Chicken Daddy",
+  "Just A Girl Who Loves Chickens"). **In top 25.** Pass.
+- #4 Cross-niche template: works for dog, cat, goose, chicken. **Fail.**
+- #5 Secondary-hook required because slogan is ≤3 words AND failed #4.
+  - Without secondary hook → race against German Shepherd "Head of Security" tees.
+  - With secondary hook → `HEAD OF SECURITY / Protecting the Coop` adds the
+    chicken-specific anchor and lifts the keyword surface.
+- Verdict (without secondary): **fail.**
+- Verdict (with secondary): **pass.** Generate the secondary-hook variant.
+
+The lesson: short-and-snappy slogans feel strong but often need a second line
+to survive Amazon's keyword game.
 
 ## Output file contract (what the pipeline's inbox/ expects)
 

@@ -74,6 +74,78 @@ create something original.
 
 ---
 
+## Step 3.5 — Decode the buyer (psychology + market structure)
+
+Finding "the winner" is not enough. Two niches with identical BSR distributions
+can convert completely differently because the **buyer psychology** is different.
+Skipping this step is how good designs land in the wrong format-category and
+quietly underperform (see the Rules-the-Roost worked example in
+`config/generation.md`).
+
+Every niche-research write-up must include the following before moving on.
+
+### 3.5a — Psychology block (per top angle, not per listing)
+
+| Field | What to capture | Source |
+|---|---|---|
+| **Identity** | The "I am an X" the buyer is signaling. Be specific: "Pickleball Grandma" not "older woman". | Top-seller titles + your read |
+| **Tribe** | The group/community the buyer affiliates with. "Backyard chicken owners", "active retired women", "field-guide birders". | Top-seller titles + niche knowledge |
+| **Emotion** | The driver: pride, humor, belonging, nostalgia, rebellion, identity, self-deprecation. **Grounded in observable BSR evidence** — e.g. "humor angles in this niche have median BSR 805K vs identity 427K → identity is the stronger driver here". | BSR-by-angle data |
+| **Giftability** | Could a non-buyer purchase this for the wearer? "Chicken Daddy" = highly gift-able (Father's Day). "I Like Birds" minimalist = lower (the wearer self-selects). | Title patterns + context |
+
+If you can't fill these in clearly from the data, **the angle is not actually
+validated** — you've found a BSR-shaped pattern without a buyer narrative, and
+the design will likely miss. Either dig deeper or drop the angle.
+
+### 3.5b — Market structure (top 25 by category, as percentages)
+
+Sort the niche's top 25 selling listings by BSR. Bucket each by **slogan format
+category**:
+
+- **Pure descriptive** (no clever slogan, e.g. "Rooster Wearing Sunglasses Photobooth Selfie")
+- **Specific identity** ("Just A Girl Who Loves X", "X Grandma", "X Nerd")
+- **Self-deprecating humor / ownership** ("MY X Has an Attitude Problem", "Chickens Make Me Happy / Humans Make My Head Hurt")
+- **Generic puns** ("Rules the X", "X Whisperer") — almost always saturated
+- **Profession / role** (e.g. "Chicken Daddy", "Head of Security")
+- **Vintage / retro art** (no slogan, art-led)
+- **Pop-culture parody** — TM risk, audit carefully
+- **Other** — note what
+
+Report as a percentage breakdown:
+
+```
+Chicken keeper top-25 structure:
+  identity (specific)      32%
+  profession / role        20%
+  humor / ownership        20%
+  descriptive (visual-led) 12%
+  vintage / retro           8%
+  generic puns              4%
+  other                     4%
+```
+
+**Why this matters:** it tells you the *load-bearing categories* for the niche.
+A new design entering a category that's 0–4% of the top-25 is fighting against
+the market, no matter how clever it is. A new design entering the dominant
+category competes for share but has the wind behind it.
+
+### 3.5c — Visual hook vs text hook (top 5 sellers)
+
+For each of the top 5 BSR sellers, fill in:
+
+| Listing | Visual hook (1 line) | Text hook (1 line) | Load-bearing |
+|---|---|---|---|
+| Rooster Sunglasses Photobooth | Sunglasses on cartoon rooster | (no slogan, descriptive title) | **visual** |
+| Bird Nerd Blue Jay | Field-guide Blue Jay illustration | "BIRD NERD + species" format | **text** |
+| Just A Girl Who Loves Chickens (floral) | Floral wreath + cute hen | "Just A Girl Who Loves X" identity | **text** |
+
+This determines how to brief the generation: a visual-load-bearing design needs
+a strong illustration with minimal lettering; a text-load-bearing design needs
+strong typography with template-able art. Mixing the wrong hook with the wrong
+emphasis is a common failure mode.
+
+---
+
 ## Step 4 — Output a ranked shortlist
 
 Write `niche-research/<niche>.md` containing:
@@ -82,8 +154,11 @@ Write `niche-research/<niche>.md` containing:
 2. **Ranked table** — term, Opportunity score, the D/C/S/F that drove it, evidence
    (e.g. "rising saves, only 60 listings, top result 4 reviews, listed last month").
 3. **Recommended target + angle** — the chosen term, the differentiated angle, and why.
-4. **Trademark screen result** for the chosen phrase.
-5. **Color profile rec** (`__p{N}`) for the planned design.
+4. **Psychology block** (Identity / Tribe / Emotion / Giftability) for each top angle. See Step 3.5a.
+5. **Market structure %** — top-25 categorical breakdown. See Step 3.5b.
+6. **Visual-hook vs text-hook table** for the top 5 sellers, with the load-bearing call. See Step 3.5c.
+7. **Trademark screen result** for the chosen phrase.
+8. **Color profile rec** (`__p{N}`) for the planned design.
 
 Then hand the chosen concept to the generation step (`config/generation.md`).
 
