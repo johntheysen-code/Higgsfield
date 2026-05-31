@@ -1,0 +1,41 @@
+{
+  "filename": "dachshund-head-of-security-squirrels__p5.png",
+  "niche": "dachshund",
+  "angle": "Head of Security framework extended from chicken to dachshund (squirrels = canonical breed prey, parallels the chicken+foxes mapping)",
+  "theme": "bold retro cartoon authority humor - multi-breed collection brand extension",
+  "slogan": "HEAD OF SECURITY / Zero Tolerance for Squirrels",
+  "description": "Cartoon dachshund with sunglasses in security-badge frame, 'HEAD OF SECURITY' chunky stencil lettering + 'Zero Tolerance for Squirrels' secondary banner. Burnt orange / mustard / deep red / cream / black retro palette, with copper/tan dachshund.",
+  "keywords": [
+    "head of security dachshund squirrels",
+    "funny dachshund security shirt",
+    "wiener dog yard security",
+    "doxie squirrel patrol humor",
+    "dachshund authority gift"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "222b20f3-795d-48bc-b107-6c4213706a0c",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "authority/role humor (identity 17% + humor 33% hybrid in dachshund market structure)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_evidence": "Identity-role family (Dachshund Dad Club BSR 267K, Floral Doxie Mama 396K) + humor (33% of niche) -- this hybrid is load-bearing across both",
+    "cross_niche_template_check": "primary 'HEAD OF SECURITY' is template; secondary 'Zero Tolerance for Squirrels' anchors to dachshund via canonical breed prey (squirrels) -- parallels the chicken/foxes mapping that worked in chicken-keeper",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Squirrels",
+    "mirror_or_invent": "hybrid (mirror our own chicken Head of Security format + invent dachshund-specific squirrel anchor)",
+    "mirror_reasoning": "The Head of Security badge format is data-validated by us in chicken-keeper. Extending it to dachshund builds a multi-breed collection brand (the suggestion from external feedback), not a one-off design. Untapped in dachshund-specific CSV (0 hits for security/patrol/watch in this data) so we are filling a gap, not crowding a saturated lane."
+  },
+  "design_feedback_disposition": {
+    "extend_head_of_security_framework": "APPLIED -- the strongest single suggestion in the research-director feedback; builds collection brand across niches",
+    "generate_20_to_50_variants": "SKIPPED -- same inventory-before-signal trap I keep pushing back on; one well-targeted design > 20 guesses",
+    "wiener_humor_immediate": "DEFERRED -- the data does favor it (33%) and I was probably too cautious. Queued for next batch IF the first 3 + this one validate",
+    "friends_in_low_places_cowboy": "SKIPPED -- Garth Brooks song lyric is TM risk. Other sellers risking it is not our case for risking it.",
+    "country_cowboy_concept_general": "QUEUED -- the broader Cowboy Dachshund concept is valid; needs a non-TM slogan crafted separately (e.g. Sheriff of Bark County, Wiener Wrangler) for a future batch"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Fourth dachshund design in the first batch -- adds the authority/humor category to balance the 3 identity/patriotic designs. Also: companion piece to chicken-keeper rooster Head of Security trio -- multi-breed collection brand."
+}
