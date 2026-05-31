@@ -95,3 +95,34 @@ Backup angles: "Chicken Game / Don't Look At The Chicken" humor format,
 **Aesthetic split:** floral for the identity ("Just A Girl") and cartoon-humor
 for the sunglasses-rooster — two different design styles, two different buyer
 hooks. Don't try to merge them.
+
+## Addendum (2026-05-31): "Crazy Chicken Lady" enriched pull
+
+`data/amazon/crazy-chicken-lady__2026-05-31.csv` (47 listings, **22 'Good'**
+ratings = 47% vs 4% in the chicken-keeper pull). This is essentially a
+high-quality slice of the same market — niche-specific to humor/identity buyers.
+
+**What it confirms:** our two existing designs both appear here as proven
+sellers (Just A Girl 427K, Rooster Sunglasses 320K Good). Good aesthetic picks.
+
+**New strong angles revealed:**
+
+| Angle | # | Median BSR | Best | Notes |
+|---|---|---|---|---|
+| **"Crazy Chicken Lady" identity itself** | 3 | **304K** | 260K | The literal slogan is a top-3 BSR seller (2024-10) |
+| **"Chicken Daddy" Father's Day** | 6 | **465K** | 387K | Most-repeated angle — recurring gift format |
+| **"Chicken Butt" humor** | 3 | **406K** | **316K** | Recent 2025-06 winner; classic kids joke |
+| **"It's Fine I'm Fine" sass** | 1 | 405K | 405K | Single hit but Good rating, recent 2024-01 |
+| **"Pecked You 3 Times" sass** | 1 | 323K | 323K | Single hit, Good rating |
+| F-Caw-F rooster meme | 2 | 455K | 358K | Two recent (2025) hits |
+| "Don't Look at the Chicken" | 2 | 521K | 305K | Two variants, recent |
+
+**Pattern emerging:** humor and sass beat pure identity here. The recent
+2025-2026 winners are mostly humor formats, not "I am X" identity tees.
+
+**Updated design queue priority:**
+1. Just A Girl Who Loves Chickens — floral ✅ generated
+2. Rooster Rules the Roost — humor ✅ generated
+3. **"Crazy Chicken Lady"** — direct slogan with our floral aesthetic, mirrors BSR 304K median seller
+4. **"Chicken Daddy"** — Father's Day angle, 6 listings selling, repeats the pattern from birding (Bird Nerd Father's Day) and pickleball (Pickleball Dad)
+5. (optional) "Chicken Butt" or "It's Fine I'm Fine" — sass/humor expansion
