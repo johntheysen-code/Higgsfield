@@ -1,0 +1,35 @@
+{
+  "filename": "celestial-golden-retriever-moon-howling__p5.png",
+  "niche": "golden-retriever",
+  "angle": "mystical / celestial sub-niche (mirrors BSR 509K + 551K Good recent winners, both with LOW comp 79-103)",
+  "theme": "vintage 90s mystical celestial gallery-print aesthetic - different from our usual farmhouse",
+  "slogan": "Celestial Golden Retriever - Howling at the Moon",
+  "description": "Golden retriever howling at a stylized moon with celestial/star accents and constellation lines, vintage 90s mystical aesthetic. 'CELESTIAL GOLDEN RETRIEVER' top + 'Howling at the Moon' bottom. Dark navy outlines / cream / warm gold / dusty pink-lavender accents.",
+  "keywords": [
+    "celestial golden retriever moon howling",
+    "mystical golden retriever 90s",
+    "vintage golden retriever celestial",
+    "boho golden retriever dog lover"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark outlines + light cream celestial palette = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "4624a0d4-5c7f-4c13-b7d7-956e2854bc8b",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 2,
+    "exact_match_bsr_primary": 551127,
+    "exact_match_bsr_goldendoodle": 509313,
+    "exact_match_competition": "79 and 103 LOW",
+    "exact_match_recency": "2026-01-28 and 2026-02-16",
+    "format_category": "mystical/celestial vintage - sub-niche within the broader vintage/retro category (which is otherwise saturated at 32 listings median 1.4M)",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "'Celestial X' is universal template; primary contains 'Golden Retriever' breed keyword - anchored",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "primary contains breed + 'Howling at the Moon' adds story behavior",
+    "mirror_or_invent": "mirror (BSR 551K + 509K Goldendoodle variant both Good rated with LOW comp)",
+    "mirror_reasoning": "Within the saturated vintage/retro category, this mystical sub-niche has clear low-comp signal. comp 79 and 103 are the LOWEST competition counts among all recent (2025+) winners under BSR 700K in the entire dataset. Genuine underserved sub-niche."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Different aesthetic from our usual farmhouse/floral - mystical vintage celestial."
+}

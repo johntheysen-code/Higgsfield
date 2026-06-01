@@ -1,0 +1,34 @@
+{
+  "filename": "golden-retriever-in-my-era__p5.png",
+  "niche": "golden-retriever",
+  "angle": "'In My X Era' trend (mirrors BSR 255K Good 2026-05-25 winner + BSR 438K Good 2024 winner)",
+  "theme": "retro 70s groovy era format applied to dominant winning niche slogan",
+  "slogan": "In My Golden Retriever Era",
+  "description": "Retro 70s groovy cartoon golden retriever with bold 'IN MY GOLDEN RETRIEVER ERA' chunky retro lettering, sunburst + daisy accents. Mustard / burnt orange / cream / sage palette.",
+  "keywords": [
+    "in my golden retriever era",
+    "golden retriever era shirt",
+    "retro golden retriever tee",
+    "groovy golden retriever 70s"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering on light retro palette = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "534c778f-d7b7-481b-bb2c-4db728e1ece1",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 2,
+    "exact_match_bsr_strong": 438356,
+    "exact_match_recent_variant_70s": 255838,
+    "format_category": "meme/trend + breed identity hybrid - dominant ~30% category in niche",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "'In My X Era' is universal trend template; primary contains 'Golden Retriever' niche keyword - anchored",
+    "secondary_hook_present": false,
+    "secondary_hook_needed": false,
+    "secondary_hook_reasoning": "Primary slogan contains the niche keyword 'Golden Retriever'",
+    "mirror_or_invent": "mirror (multiple BSR <600K winners exist with this exact format)",
+    "mirror_reasoning": "Freshest data point in any niche we have scored - the BSR 255K winner was listed 2026-05-25, only 5 days before this generation. Multiple proven variants. Direct mirror of the niche's strongest single signal."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

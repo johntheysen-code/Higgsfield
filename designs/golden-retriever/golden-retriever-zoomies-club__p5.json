@@ -1,0 +1,38 @@
+{
+  "filename": "golden-retriever-zoomies-club__p5.png",
+  "niche": "golden-retriever",
+  "angle": "Zoomies Club meme - fresh 2026 wave with very low competition (78-115)",
+  "theme": "retro running-club badge with humor",
+  "slogan": "Golden Retriever Zoomies Club",
+  "description": "Goofy golden retriever caught mid-zoomies sprint with motion lines, 'GOLDEN RETRIEVER / ZOOMIES CLUB' club-badge layout. Mustard / cream / sage / terracotta palette.",
+  "keywords": [
+    "golden retriever zoomies club",
+    "funny golden retriever shirt",
+    "zoomies dog tee",
+    "retro golden running club"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark lettering + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "cb2a72eb-59f0-4cb5-af00-ea833b06e948",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 2,
+    "exact_match_bsr": "654589 (Average), 662166 (Good)",
+    "exact_match_recency": "2026-02-18 and 2026-05-07",
+    "exact_match_competition": "115 and 78 LOW",
+    "format_category": "meme/humor + retro hybrid - dominant ~30% in niche",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "'X Zoomies Club' is dog-niche-specific term (zoomies = post-bath dog sprint behavior, in-group reference). Primary contains 'Golden Retriever' breed keyword.",
+    "secondary_hook_present": false,
+    "secondary_hook_needed": false,
+    "secondary_hook_reasoning": "Primary contains breed keyword and 'Zoomies' is a strong dog-specific in-group reference",
+    "mirror_or_invent": "mirror (BSR 654K + 662K both alive, low competition)",
+    "mirror_reasoning": "Best risk/reward in dataset: 2 listings only (low saturation), both recent (2026), comp 78-115 LOW = fresh wave with significant upside. Replaced 'Drinking Iced Coffee' from initial recommendation because iced coffee has 5 listings (2 dead) = more saturated lane."
+  },
+  "design_feedback_disposition": {
+    "swap_from_iced_coffee_to_zoomies": "Made at gate-review stage. Iced coffee has 5 existing variants (2 dead). Zoomies Club has 2 alive recent listings with comp 78-115. Better data-driven pick within same meme category."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}
