@@ -1,0 +1,24 @@
+{
+  "filename": "golden-retriever-in-my-era-90s__p5.png",
+  "niche": "golden-retriever",
+  "angle": "'In My X Era' v2 - vintage 90s nostalgia aesthetic (alternative to 70s groovy v1)",
+  "theme": "vintage 90s magazine/yearbook graphic design - rides the celestial 90s aesthetic the niche has already validated",
+  "slogan": "In My Golden Retriever Era",
+  "description": "Cute cartoon golden retriever with bold 'IN MY GOLDEN RETRIEVER ERA' lettering in 90s magazine aesthetic with squiggles, stars, geometric accents. Bright teal / hot pink / mustard / cream palette.",
+  "keywords": [
+    "in my golden retriever era 90s",
+    "vintage 90s golden retriever",
+    "retro golden retriever nostalgia",
+    "y2k golden retriever shirt"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Bright 90s colors + dark navy outlines on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "3c959bc7-85cf-450c-ba97-44408711fd7f",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Same slogan as golden-retriever-in-my-era__p5 (v1). Validation evidence carried over. Tests aesthetic-era variable: 70s groovy (v1) vs 90s nostalgia (v2). 90s aesthetic also aligns with the niche's celestial 90s winners (BSR 509K + 551K Good with LOW comp) -- this is the era the niche's data actually points to for the mystical/retro category."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Paired with v1 (golden-retriever-in-my-era__p5) for in-market A/B on decade preference - same slogan, different decade aesthetic."
+}

@@ -1,0 +1,24 @@
+{
+  "filename": "golden-retriever-zoomies-club-athletic__p5.png",
+  "niche": "golden-retriever",
+  "angle": "Zoomies Club v2 - vintage collegiate athletic poster aesthetic (alternative to retro cartoon v1)",
+  "theme": "vintage 70s athletic running-club poster - treats zoomies as a serious Olympic event",
+  "slogan": "Golden Retriever Zoomies Club",
+  "description": "Golden retriever in determined mid-sprint athletic pose, vintage 70s collegiate running-club poster aesthetic with athletic stripes/track curves, varsity lettering. Cream / navy / mustard / burgundy palette.",
+  "keywords": [
+    "golden retriever zoomies club athletic",
+    "vintage golden retriever running",
+    "varsity golden retriever shirt",
+    "retro athletic dog tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark navy outlines + cream/mustard fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "448e6f18-591a-4f71-ad76-b496b8ce2e54",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Same slogan as golden-retriever-zoomies-club__p5 (v1). Validation evidence carried over. Tests aesthetic-style variable: cartoon humor (v1) vs vintage athletic poster (v2)."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Paired with v1 (golden-retriever-zoomies-club__p5) for in-market A/B on aesthetic preference - same slogan, different style."
+}
