@@ -1,0 +1,38 @@
+{
+  "filename": "golden-retriever-welcome-committee__p5.png",
+  "niche": "golden-retriever",
+  "angle": "breed + behavior authority humor (golden retriever = friendliest breed = welcoming behavior)",
+  "theme": "modern friendly cartoon, dog-as-hero with waving/greeting gesture",
+  "slogan": "OFFICIAL / WELCOME COMMITTEE / Golden Retriever",
+  "description": "Cheerful golden retriever with paw raised in greeting, 'OFFICIAL / WELCOME COMMITTEE / Golden Retriever' text layout. Golden yellow / cream / dark navy / sage or terracotta accent. Dog-as-hero composition (~55% height) where the greeting gesture IS the joke.",
+  "keywords": [
+    "golden retriever welcome committee",
+    "official welcome committee dog",
+    "friendly golden retriever shirt",
+    "dog greeter funny tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark text + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "ee366c6d-5e25-4705-865a-08db8210b14b",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "authority/role humor (untapped in golden) within behavior-anchored framework",
+    "format_category_present_in_top_sellers": false,
+    "format_category_evidence": "0 hits for welcome/greeter/committee patterns in golden CSV. Lane is completely open. Behavior = greeting/friendliness which is the breed's iconic personality trait per general knowledge",
+    "cross_niche_template_check": "'Welcome Committee' is universal template; 'Golden Retriever' subtitle + the breed-canonical greeting behavior anchors it to the niche",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Golden Retriever subtitle + visual greeting behavior",
+    "mirror_or_invent": "invent (untapped) - tests expert's behavior-anchored hypothesis with the friendliest-breed trait",
+    "invent_reasoning": "Goldens have the strongest 'friendliest dog' reputation of any breed. Welcome Committee captures that behavior as a fake official role - matches the framework that worked for dachshund (Head of Security captured the bark-at-everything trait). Tests whether breed-iconic-trait + role humor generalizes."
+  },
+  "design_feedback_disposition": {
+    "expert_breed_plus_behavior_framework": "APPLIED - welcome/greeting = iconic golden trait",
+    "expert_dog_as_hero_critique": "ADDRESSED - dog with greeting gesture takes ~55% of design",
+    "user_too_crowded_critique": "ADDRESSED - clean illustration, no busy badge frame"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

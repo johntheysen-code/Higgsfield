@@ -1,0 +1,37 @@
+{
+  "filename": "golden-retriever-chief-happiness-officer__p5.png",
+  "niche": "golden-retriever",
+  "angle": "breed + behavior authority humor (golden retriever = happiness archetype = mood-officer role)",
+  "theme": "modern corporate-humor cartoon, dog-as-hero",
+  "slogan": "CHIEF HAPPINESS OFFICER / Powered by Golden Retrievers",
+  "description": "Smiling joyful golden retriever as hero, 'CHIEF / HAPPINESS OFFICER' modern serif text with 'Powered by Golden Retrievers' script secondary. Golden yellow / cream / dark navy / mustard / soft red accents. Dog-as-hero (~55% height).",
+  "keywords": [
+    "chief happiness officer golden retriever",
+    "powered by golden retrievers",
+    "golden retriever office humor",
+    "happy dog gift tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark text + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "354fb520-602e-4222-a85c-6f9fe275a5e9",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "authority/role humor (untapped) + corporate humor + breed trait",
+    "format_category_present_in_top_sellers": false,
+    "cross_niche_template_check": "'Chief X Officer' is universal corporate template; primary 'Chief Happiness Officer' is golden-trait-appropriate but generic; secondary 'Powered by Golden Retrievers' contains niche keyword - anchored via secondary",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Golden Retrievers (in secondary)",
+    "mirror_or_invent": "invent - tests expert's framework with niche-anchored secondary required by gate check #5",
+    "invent_reasoning": "Most template-y of the three behavior designs (Chief X Officer works for any happy thing). Anchored via secondary hook as required by the slogan-validation gate. Happiness is golden's archetypal trait. If this version converts despite the more template-y primary, it suggests the secondary-hook addition strategy works in golden too."
+  },
+  "design_feedback_disposition": {
+    "expert_breed_plus_behavior_framework": "APPLIED - happiness = iconic golden trait",
+    "expert_dog_as_hero_critique": "ADDRESSED - dog takes ~55% of design",
+    "user_too_crowded_critique": "ADDRESSED - clean modern illustration"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py."
+}

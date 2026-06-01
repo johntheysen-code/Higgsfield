@@ -1,0 +1,39 @@
+{
+  "filename": "golden-retriever-director-of-tennis-ball-operations__p5.png",
+  "niche": "golden-retriever",
+  "angle": "breed + behavior authority humor (literal retriever = ball retriever, role/title humor)",
+  "theme": "modern bold illustration with workplace-humor tone, dog-as-hero composition",
+  "slogan": "DIRECTOR OF / Tennis Ball Operations",
+  "description": "Confident golden retriever proudly holding a tennis ball, large 'DIRECTOR OF / TENNIS BALL OPERATIONS' modern serif text below, optional small office name-tag accent. Golden yellow / cream / dark navy / tennis green palette. Dog-as-hero (~55% height).",
+  "keywords": [
+    "director of tennis ball operations",
+    "funny golden retriever shirt",
+    "golden retriever tennis ball humor",
+    "dog mom dad job title shirt"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark text + cartoon fills on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "6b8cd0af-7e4b-45e7-9b2c-01cc47df9107",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "variant_pattern_match": 0,
+    "format_category": "authority/role humor (untapped in golden -- 0 hits) within the behavior-anchored framework",
+    "format_category_present_in_top_sellers": false,
+    "format_category_evidence": "Authority/role humor lane is completely empty in golden's CSV (0 hits for director/officer/chief/inspector/surveillance). This is the gap the expert identified. The framework is data-validated in dachshund (Head of Security BSR 320K mirror) and chicken-keeper (Rooster Head of Security family).",
+    "cross_niche_template_check": "'Director of X Operations' is corporate template; 'Tennis Ball' anchors specifically to golden retriever (literal retriever = ball retriever, iconic breed behavior)",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "Tennis Ball (iconic golden behavior)",
+    "mirror_or_invent": "invent (untapped category in golden) - tests external expert's behavior-vs-breed hypothesis",
+    "invent_reasoning": "External expert's strongest single insight: behavior-focused beats breed-focused for POD. Framework data-validated in adjacent niches (dachshund, chicken-keeper) but untested in golden. This design tests whether the multi-breed Head of Security collection brand extends to golden via behavior-anchored authority humor. Tennis ball is the most iconic golden retriever behavior anchor."
+  },
+  "design_feedback_disposition": {
+    "expert_breed_plus_behavior_framework": "APPLIED - tennis ball = iconic golden behavior",
+    "expert_dog_as_hero_critique": "ADDRESSED - dog takes ~55% of design height, NOT phrase-dominated",
+    "user_too_crowded_critique": "ADDRESSED - modern illustration with NO badge frame, clean composition",
+    "agent_wait_for_signal_discipline": "OVERRIDDEN by user explicit reasoning: capture insight while framework is fresh before pivoting to other niches"
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. First behavior-anchored authority-humor design in golden niche. Tests whether the multi-breed Head of Security framework extends to golden via behavior anchors instead of villain anchors."
+}
