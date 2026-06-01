@@ -1,0 +1,27 @@
+{
+  "filename": "golden-retriever-zoomies-club-minimalist__p5.png",
+  "niche": "golden-retriever",
+  "angle": "Zoomies Club v3 - minimalist gallery-print aesthetic (alternative to retro cartoon v1 and athletic poster v2)",
+  "theme": "premium minimalist line art where the running pose is the joke",
+  "slogan": "Golden Retriever Zoomies Club",
+  "description": "Single continuous-line golden retriever in mid-zoomies sprint with 2-3 subtle speed lines, clean stacked sans-serif text 'GOLDEN RETRIEVER / ZOOMIES CLUB' below, single warm accent color on one tiny detail. Cream / navy / one warm accent palette.",
+  "keywords": [
+    "golden retriever zoomies club minimalist",
+    "minimalist golden retriever running",
+    "modern dog zoomies line art",
+    "gallery print zoomies tee"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark navy line art + warm accent on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "8f4862f9-72b4-422c-9081-6512a1f63277",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Same slogan as golden-retriever-zoomies-club__p5 (v1) and golden-retriever-zoomies-club-athletic__p5 (v2). Validation evidence carried over. Tests aesthetic-style variable: retro cartoon humor (v1) vs vintage athletic poster (v2) vs minimalist gallery-print (v3 = this one). Three-way A/B on style preference."
+  },
+  "design_feedback_disposition": {
+    "user_feedback_designs_too_crowded": "ADDRESSED - explicit prompt restraint: single line-art dog, minimal motion lines, 2-color palette + 1 accent, generous negative space, NO badge/decoration. The running pose carries the joke without visual noise."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Third Zoomies Club variant - completes the 3-way style A/B."
+}

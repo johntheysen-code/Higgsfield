@@ -1,0 +1,27 @@
+{
+  "filename": "golden-retriever-in-my-era-minimalist__p5.png",
+  "niche": "golden-retriever",
+  "angle": "'In My X Era' v3 - minimalist gallery-print aesthetic (alternative to busy 70s v1 and 90s v2)",
+  "theme": "premium minimalist line art - same family as our proven I Like Birds line-art series",
+  "slogan": "in my Golden Retriever Era",
+  "description": "Single continuous-line sitting golden retriever drawn in dark navy, stacked clean sans-serif text 'in my / GOLDEN RETRIEVER / ERA' below, single warm accent color on one tiny detail. Cream / navy / one warm accent palette.",
+  "keywords": [
+    "in my golden retriever era minimalist",
+    "minimalist golden retriever line art",
+    "modern golden retriever shirt",
+    "gallery print golden retriever"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Dark navy line art + warm accent on light = white/light shirts only.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "3c67da66-c29d-4ef7-8da8-ee45d357d1b6",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "note": "Same slogan as golden-retriever-in-my-era__p5 (v1) and golden-retriever-in-my-era-90s__p5 (v2). Validation evidence carried over. Tests aesthetic-style variable: 70s groovy (v1) vs 90s nostalgia (v2) vs minimalist gallery-print (v3 = this one). Three-way A/B on style preference."
+  },
+  "design_feedback_disposition": {
+    "user_feedback_designs_too_crowded": "ADDRESSED - explicit prompt restraint: single line-art dog, 2-color palette + 1 accent, generous negative space, NO badge/sunburst/decoration. Same minimalism that worked for I Like Birds line-art series."
+  },
+  "asset_note": "PNG hosted at Higgsfield (CDN not reachable from web session). Download from viewer, then run scripts/handoff.py. Third 'In My Era' variant - completes the 3-way style A/B."
+}
