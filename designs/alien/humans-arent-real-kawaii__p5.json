@@ -1,0 +1,34 @@
+{
+  "filename": "humans-arent-real-kawaii__p5.png",
+  "niche": "alien",
+  "angle": "Cute kawaii alien with proven slogan (mirrors BSR 159K Good - 8-year durable single-listing seller, open lane)",
+  "theme": "Cute kawaii pastel cartoon style - the secondary aesthetic in the niche (13% signal)",
+  "slogan": "Humans Aren't Real - Just a Conspiracy",
+  "description": "Tiny pastel-mint baby alien with sparkly eyes holding a UFO toy and coffee cup, surrounded by stars. Mint + lavender + baby blue + cream + dusty teal palette. Hand-lettered 'HUMANS AREN'T REAL' top + 'JUST A CONSPIRACY' arched bottom.",
+  "keywords": [
+    "humans arent real cute alien",
+    "kawaii alien conspiracy funny",
+    "baby alien pastel cute",
+    "alien believer cute kawaii"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Soft pastel palette = light shirts only (white, cream, baby pink).",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "59684f71-b395-4b0a-8a0a-b9b6a9ad9df8",
+  "background": "magenta knockout (#FF00FF) for clean background removal - design palette avoids hot pink to prevent conflict",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr_primary": 159000,
+    "exact_match_recency": "2017 (8-year durable seller)",
+    "exact_match_rating": "Good",
+    "format_category": "Cute/kawaii alien with text-led slogan",
+    "format_category_present_in_top_sellers": true,
+    "format_category_percentage": "13% of niche (just below dual-variant threshold but has real winners at BSR 159K, 273K, 347K)",
+    "cross_niche_template_check": "Proven slogan that's been selling 8 years as single listing = open lane / no saturation",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Just a Conspiracy' extends the joke with UFO-believer humor",
+    "mirror_or_invent": "mirror (proven slogan, durable seller, open lane)",
+    "mirror_reasoning": "Single-listing 8-year durable seller at BSR 159K Good = the lane has demand but no one's filled the cute kawaii variant beyond the original. We can enter without cannibalizing or facing saturation."
+  }
+}

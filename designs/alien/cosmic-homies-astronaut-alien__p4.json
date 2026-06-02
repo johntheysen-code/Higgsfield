@@ -1,0 +1,33 @@
+{
+  "filename": "cosmic-homies-astronaut-alien__p4.png",
+  "niche": "alien",
+  "angle": "Astronaut + Alien cosmic crossover (mirrors BSR 330-358K Good comp <150 - low-comp lane)",
+  "theme": "Vintage NASA-poster cosmic aesthetic with halftone retro print texture",
+  "slogan": "Cosmic Homies - Interplanetary Crew",
+  "description": "Vintage astronaut fist-bumping a green alien, floating in deep space with planets + stars + crescent moon. Cosmic navy + midnight purple + cream + warm gold + neon green palette. 'COSMIC HOMIES' arched top + 'INTERPLANETARY CREW' bottom.",
+  "keywords": [
+    "astronaut alien cosmic funny",
+    "space alien fist bump",
+    "cosmic homies interplanetary",
+    "vintage nasa alien retro"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Cosmic deep navy/purple palette = dark shirts only. Aligns with niche's 87% p4 signal.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "c7f07d8e-97ef-4cbc-8229-ec09b1d2a2cf",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "format_category": "Astronaut + Alien cosmic combo (~5% of niche)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 330000,
+    "format_category_competition": "<150 LOW",
+    "format_category_rating": "Good",
+    "cross_niche_template_check": "Mystical/cosmic adjacency pattern - crosses multiple niches with low competition (also confirmed in golden + sourdough)",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Cosmic Homies' = millennial friendship humor / 'Interplanetary Crew' = group identity",
+    "mirror_or_invent": "mirror (low-comp lane in proven niche)",
+    "mirror_reasoning": "Astronaut + Alien combos sit in a 330-358K Good range with competition under 150 - one of the lowest-comp clean lanes in the alien niche."
+  }
+}

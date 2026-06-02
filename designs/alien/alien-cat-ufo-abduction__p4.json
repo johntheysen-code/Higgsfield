@@ -1,0 +1,32 @@
+{
+  "filename": "alien-cat-ufo-abduction__p4.png",
+  "niche": "alien",
+  "angle": "Alien × Cat crossover (mirrors BSR 74K Good - top crossover winner in the niche, 19 recurring listings)",
+  "theme": "Y2K vintage Japanese kaiju-poster aesthetic with halftone retro print texture",
+  "slogan": "UFO Abduction Cat - Take Me to Your Litter",
+  "description": "Vintage Japanese poster style illustration of a green UFO beaming up a startled cartoon cat with a fish. Deep navy + neon green + dusty pink + cream palette on dark shirt. 'UFO ABDUCTION CAT' arched top + 'TAKE ME TO YOUR LITTER' arched bottom.",
+  "keywords": [
+    "ufo abduction cat funny alien",
+    "y2k vintage japanese cat alien",
+    "cat dad alien ufo crossover",
+    "alien cat lover retro"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Dark navy + cream + neon palette = dark shirts (black, navy). Aligns with 58% vintage/distressed signal in niche.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "97c2d835-0ab8-4025-951f-be757d41292a",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "format_category": "Alien × Cat crossover - the niche's top crossover lane (19 recurring listings)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 74000,
+    "format_category_rating": "Good",
+    "cross_niche_template_check": "Crossover sub-niche pattern (Pickleball × Mahjong, Crochet × Dog) - 'Alien × Cat' is the equivalent here",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'UFO Abduction Cat' anchors both the alien (UFO) and cat keywords; 'Take Me to Your Litter' is a cat pun on the classic UFO phrase",
+    "mirror_or_invent": "mirror (top crossover signal in niche)",
+    "mirror_reasoning": "Alien × Cat is the strongest crossover signal in the alien niche - top listing BSR 74K Good, 19 recurring listings. Y2K Japanese vintage aesthetic is the dominant winning style (28% of niche)."
+  }
+}
