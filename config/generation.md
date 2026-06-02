@@ -138,6 +138,100 @@ Niche: chicken-keeper. Proposed slogan: "HEAD OF SECURITY".
 The lesson: short-and-snappy slogans feel strong but often need a second line
 to survive Amazon's keyword game.
 
+## Aesthetic discipline (anti-default rules)
+
+The agent has documented biases that hurt portfolio diversity. Apply these
+rules at prompt-write time, NOT after the render comes back:
+
+### 1. Anti-badge-bias rule
+
+The agent defaults to "fake credential badge" framing because it renders well
+in GPT Image 2 and matches the proven authority-humor format. Badges are
+**correct only for fake-credential authority humor.** For everything else,
+pick a different aesthetic *before generating*:
+
+| Slogan category | Required aesthetic (NOT badge) |
+|---|---|
+| Identity / emotion / gift (Mom, Mama, Just A Girl) | floral wreath or warm illustration |
+| Trend format (In My X Era, X Mama) | typography-led, dog-as-hero |
+| Meme / absurdist humor (drinking iced coffee, zoomies) | cartoon scene where the visual carries the joke |
+| Premium / gallery feel (I Like Birds) | minimalist line art with explicit no-go list |
+| Mystical / niche subculture (Celestial, tarot, vintage 90s) | themed art (celestial, vintage tarot) |
+| Authority humor (Head of Security, Chief X Officer) | **badge OK here** |
+
+### 2. Dog-as-hero (and breed-as-hero) rule
+
+For breed-specific designs, **the subject takes ~55% of the design height,
+not the text.** Phrase-dominated designs ("people buy the phrase, not the
+dog") underperform on Amazon. State explicitly in the prompt: *"the [subject]
+takes ~55% of the design height as the dominant hero element."*
+
+### 3. Minimalist briefs need explicit no-go list
+
+When the brief is minimalist, GPT Image 2 still defaults to adding decorative
+elements. Use a strict negative list:
+
+> STRICT no-go list: NO badge frame, NO decorative flourishes, NO sunburst,
+> NO geometric shapes, NO halftones, NO additional accents beyond the
+> single warm color spot.
+
+The model will obey "no badge" much more reliably than "minimalist style."
+
+### 4. Cross-niche cannibalization check
+
+Before generating, check if the design competes with an existing one in our
+own catalog under a similar slogan. "Just A Girl Who Loves Chickens" v1 (full
+wreath) and v2 (bold) were near-duplicates that risked cannibalizing each
+other's impressions. **Two variants of a design must test ONE clean variable**
+(e.g. v1 cream + v2 magenta, or v1 detailed + v2 thumbnail-simplified). If
+the variants are "just different art," ship only one.
+
+## Color-profile selection (driven by shirt-color analysis)
+
+The shirt-color analysis in `config/niche-scoring.md` Step 3.5d outputs a
+recommended profile (or two profiles for dual-variant niches). Generation
+must respect that recommendation:
+
+### Single-profile niches
+
+Generate one PNG per slogan in the dominant profile (`__p5` for light-shirt
+niches, `__p4` for dark-shirt niches).
+
+### Dual-variant niches
+
+When the niche's shirt-color analysis flags **both p4 and p5 viable** (both
+style categories cross the 20% threshold), generate **BOTH a `__p5` and a
+`__p4` version** of every shipping design:
+
+| Filename pair | Color profile | Design treatment |
+|---|---|---|
+| `<slug>__p5.png` | white/light shirts | dark lettering + warm fills, design works on cream/transparent |
+| `<slug>__p4.png` | black/dark shirts | inverted — light/cream lettering + darker fills, design works on dark |
+
+This doubles the addressable shirt-color market for the same slogan/concept
+work. **The two PNG files share metadata but inverse-color the line work and
+text, like the I Like Birds Cardinal/Blue Jay pair we already shipped.**
+
+### When to skip the dual-variant pair
+
+- The slogan is **deeply identity-feminine** (Doxie Mama, Just A Girl) — these
+  read wrong on dark shirts; skip p4
+- The slogan is **mystical/celestial** that already implies dark — generate
+  only p4 (the inverse on light reads as missing the aesthetic)
+- The niche's analysis shows one profile is dominant by 3:1 — skip the minor
+  profile until the dominant one validates
+
+### Pattern confirmed across our portfolio
+
+Single-profile niches (current): Pickleball Wine/Mahjong/Grandma (all p5
+floral feminine), Chicken Keeper floral identity (p5)
+
+Dual-profile niches that should have shipped both (retroactive):
+- **Birding** (we shipped 8 dual line-art variants — pattern worked, BSR signal will confirm)
+- **Dachshund** (vintage-distressed angle wanted p4; identity/floral wanted p5)
+- **Golden Retriever** (patriotic + vintage = strong dual)
+- **Pickleball patriotic angles** (we missed; would have benefited from p4 USA flag variant)
+
 ## Output file contract (what the pipeline's inbox/ expects)
 
 For each chosen design, write to `designs/<niche>/`:
