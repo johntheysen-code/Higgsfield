@@ -6,7 +6,7 @@ CSVs land, score them against this baseline — the "potential bestseller"
 verdict comes from comparing the new niche's metrics + signals against the
 tiers below.
 
-**Last updated:** 2026-06-02 — 15 niches scored.
+**Last updated:** 2026-06-02 — 16 niches scored.
 
 ---
 
@@ -37,6 +37,7 @@ tiers below.
 | **⭐ Chicken Keeper** (2026-05-31) | 190 | 1 | 23 | 61 | 8 | 13 | ⭐ STRONG | 5 |
 | **⭐ Crazy Chicken Lady** (2026-05-31) | 47 | 1 | 31 | 47 (100%) | 22 | 0 | ⭐ STRONG (high-quality sub-slice of chicken-keeper) | (rolled into chicken-keeper) |
 | **MODERATE Kitchen** (2026-06-02) | 149 | 1 | 15 | 51 | 15 | 88 (59%) | MODERATE (TM-trap-heavy) | 0 |
+| **MODERATE Bachelorette** (2026-06-02) | 121 | 3 | 21 | 32 (26%) | 14 | 8 | MODERATE (sub-niches > parent) | 0 |
 | **MODERATE Crochet** (2026-05-31) | 156 | 0 | 4 | 45 | 5 | 78 | MODERATE | 3 (Dog crossover) |
 | **MODERATE Quilting** (2026-05-30) | 90 | 0 | 8 | 39 | 3 | 1 | MODERATE | 0 |
 | **WEAK Sourdough** (2026-06-02) | 165 | 0 | 2 | 19 | 4 | 96 (58%) | WEAK (over-fished) | 0 |
@@ -58,6 +59,7 @@ tiers below.
 | Golden Retriever | "In My Golden Era" + Iced Coffee meme + Mystical Moon | 189K–438K | mixed (era + meme + mystical) |
 | Chicken Keeper | Just A Girl Loves Chickens + Rooster Sunglasses | 320K–427K | p5 floral + p4 humor |
 | Kitchen | Spatula City + Salted Butter Social Club + restaurant slang | 261K–592K | **p4 first niche scored** |
+| Bachelorette | **Feral Bride / Girls Gone Feral** (rising 2026) + Mother of the Bride Era + Last Rodeo Western | 444K–882K (comp 8–80 LOW) | p5 default, p4 for chaos/feral |
 | Crochet | Crochet × Dog rising wave | 583K | p5 floral |
 | Quilting | Cats + quilting crossover | 364K (low-comp 70) | p5 |
 | Sourdough | Tarot/mystical sourdough sub-niche only | 438K (one) | n/a (skip) |
@@ -99,7 +101,9 @@ new niches, lead with the data tier, not my pre-scan estimate.
 
 User-active queue:
 1. **VBS** / Vacation Bible School — religious summer-camp gift market
-2. **Bachelorette** / Girls Trip — wedding-party time-driven market
+2. ~~Bachelorette~~ ✓ scored 2026-06-02 (MODERATE; sub-niches stronger than parent)
+3. **`feral bride` / `girls gone feral`** — surfaced from bachelorette CSV as the strongest single signal (comp 8–80 LOW, rising 2026 wave)
+4. **`mother of the bride`** — sub-identity inside bachelorette, different demographic
 
 My ranked picks (after user's queue clears):
 3. **Milestone Birthday** (`60th` / `70th` / `80th birthday`) — **CONFIRMED across 3 niches** (pickleball + vacation + cruise). Massive cross-occasion gift market.
