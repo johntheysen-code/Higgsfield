@@ -6,7 +6,7 @@ CSVs land, score them against this baseline — the "potential bestseller"
 verdict comes from comparing the new niche's metrics + signals against the
 tiers below.
 
-**Last updated:** 2026-06-02 — 16 niches scored.
+**Last updated:** 2026-06-02 — 17 niches scored.
 
 ---
 
@@ -38,6 +38,7 @@ tiers below.
 | **⭐ Crazy Chicken Lady** (2026-05-31) | 47 | 1 | 31 | 47 (100%) | 22 | 0 | ⭐ STRONG (high-quality sub-slice of chicken-keeper) | (rolled into chicken-keeper) |
 | **MODERATE Kitchen** (2026-06-02) | 149 | 1 | 15 | 51 | 15 | 88 (59%) | MODERATE (TM-trap-heavy) | 0 |
 | **MODERATE Bachelorette** (2026-06-02) | 121 | 3 | 21 | 32 (26%) | 14 | 8 | MODERATE (sub-niches > parent) | 0 |
+| **MODERATE-TM-TRAP VBS** (2026-06-02) | 184 | 6 | 17 | 47 (26%) | 18 | 66 (36%) | MODERATE / SKIP (TM-trap heavy + group-purchase market) | 0 |
 | **MODERATE Crochet** (2026-05-31) | 156 | 0 | 4 | 45 | 5 | 78 | MODERATE | 3 (Dog crossover) |
 | **MODERATE Quilting** (2026-05-30) | 90 | 0 | 8 | 39 | 3 | 1 | MODERATE | 0 |
 | **WEAK Sourdough** (2026-06-02) | 165 | 0 | 2 | 19 | 4 | 96 (58%) | WEAK (over-fished) | 0 |
@@ -60,6 +61,7 @@ tiers below.
 | Chicken Keeper | Just A Girl Loves Chickens + Rooster Sunglasses | 320K–427K | p5 floral + p4 humor |
 | Kitchen | Spatula City + Salted Butter Social Club + restaurant slang | 261K–592K | **p4 first niche scored** |
 | Bachelorette | **Feral Bride / Girls Gone Feral** (rising 2026) + Mother of the Bride Era + Last Rodeo Western | 444K–882K (comp 8–80 LOW) | p5 default, p4 for chaos/feral |
+| VBS | All top sellers are TM curriculum themes (Illumination Station, Rainforest Falls, True North) — **SKIP** | n/a | n/a |
 | Crochet | Crochet × Dog rising wave | 583K | p5 floral |
 | Quilting | Cats + quilting crossover | 364K (low-comp 70) | p5 |
 | Sourdough | Tarot/mystical sourdough sub-niche only | 438K (one) | n/a (skip) |
@@ -82,6 +84,8 @@ tiers below.
 | **Identity formats (Mom/Dad/Mama) are NICHE-DEPENDENT** | CONFIRMED | Works: dachshund, chicken. Dies: golden, sourdough, kitchen (saturated). ALWAYS re-verify per CSV. |
 | **"In My X Era" trend format** | Works in select niches | Pickleball, Wine, Crochet, Golden. NOT in alien or kitchen. |
 | **Cosmic/celestial aesthetic crosses multiple niches with low comp** | EMERGING PATTERN | Golden, Sourdough (sub), Alien |
+| **Curriculum-driven niches are TM-trap categories** | NEW PATTERN (VBS) | VBS confirmed (Illumination Station, Rainforest Falls etc.). Watch for: homeschool, Sunday school, school programs broadly. |
+| **Group-purchase markets have different conversion dynamics** | NEW MARKET-SHAPE FLAG (VBS) | Church group buys 20-50 matching shirts for a program → curriculum themes win, individual identity buyers small. Different from POD norm. |
 
 ---
 
@@ -99,11 +103,17 @@ new niches, lead with the data tier, not my pre-scan estimate.
 
 ## Active sub-niche backlog (queued for future scans)
 
-User-active queue:
-1. **VBS** / Vacation Bible School — religious summer-camp gift market
-2. ~~Bachelorette~~ ✓ scored 2026-06-02 (MODERATE; sub-niches stronger than parent)
-3. **`feral bride` / `girls gone feral`** — surfaced from bachelorette CSV as the strongest single signal (comp 8–80 LOW, rising 2026 wave)
-4. **`mother of the bride`** — sub-identity inside bachelorette, different demographic
+User-active queue (all scored as of 2026-06-02):
+1. ~~VBS~~ ✓ scored MODERATE-TM-TRAP (skip recommended)
+2. ~~Bachelorette~~ ✓ scored MODERATE (sub-niches > parent)
+3. ~~Cruise~~ ✓ scored STRONG (saturated headline lane)
+4. ~~Vacation~~ ✓ scored STRONG (saturated, use for sub-discovery)
+5. ~~Alien~~ ✓ scored HOTTEST (designs queued, not yet generated)
+
+User queue clear. Next priorities surfaced from existing scans:
+1. **`feral bride` / `girls gone feral`** — bachelorette comp 8 + 80 LOW signals, rising 2026 wave
+2. **`mother of the bride`** — bachelorette sub-identity, different demographic
+3. **`milestone birthday`** (`60th` / `70th` / `80th`) — confirmed across 3+ niches
 
 My ranked picks (after user's queue clears):
 3. **Milestone Birthday** (`60th` / `70th` / `80th birthday`) — **CONFIRMED across 3 niches** (pickleball + vacation + cruise). Massive cross-occasion gift market.
