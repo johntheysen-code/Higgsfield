@@ -186,6 +186,34 @@ other's impressions. **Two variants of a design must test ONE clean variable**
 (e.g. v1 cream + v2 magenta, or v1 detailed + v2 thumbnail-simplified). If
 the variants are "just different art," ship only one.
 
+### 5. Gift-buyer composition rule — NO competing figure of the recipient
+
+When the design is a **gift** (Father's Day, Mother's Day, birthday, anniversary,
+"Best X Ever," "X Dad / Mom" identity slogans), the buyer is overwhelmingly
+**someone other than the wearer** (wife buying for husband, kids for parent,
+friend for friend). That buyer will NOT put a shirt on the recipient that
+shows a stand-in figure of the same demographic — a wife will not buy her
+husband a shirt with another man's face on it, a daughter will not buy her
+mom a shirt with another woman on it.
+
+**Rule:** for gift-niches, the design must NOT include a human figure of the
+recipient's demographic. The wearable identity is implied by the slogan;
+the visual is the pet/object/scene, not a stand-in person.
+
+| Niche pattern | Compose with | NOT with |
+|---|---|---|
+| Cat Dad / Dog Dad / Pet Dad (gift) | The pet alone, regal/smug/funny | A man + the pet |
+| Cat Mom / Dog Mom (gift) | The pet alone, with woman-coded accents (florals, etc.) | A woman + the pet |
+| Best Grandma / Nana / Mom Ever | Object/scene/lettering only, or grandkid-coded items | A grandma stand-in figure |
+| Birthday / milestone gift | Cake/balloons/illustration; age-coded items | A person stand-in |
+
+**Exception:** when the wearer IS the buyer (self-buy identity niches like
+bachelorette "BRIDE," "Feral Bride," sports fan, hobbyist identity) a figure
+representing the wearer is fine — they're projecting themselves into it.
+
+**Discipline note:** missed this on the first Best Cat Dad Ever pair (man +
+cat composition). Both variants killed and re-fired as cat-only before push.
+
 ## Color-profile selection (driven by shirt-color analysis)
 
 The shirt-color analysis in `config/niche-scoring.md` Step 3.5d outputs a

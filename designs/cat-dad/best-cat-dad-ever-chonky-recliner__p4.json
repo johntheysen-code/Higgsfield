@@ -1,0 +1,34 @@
+{
+  "filename": "best-cat-dad-ever-chonky-recliner__p4.png",
+  "niche": "cat-dad",
+  "angle": "Best Cat Dad Ever — CAT-ONLY composition, chonky orange tabby lounging on recliner with 'BEST DAD' trophy (p4 dark variant). Replaces the killed man+cat composition.",
+  "theme": "Vintage band-tee distressed typography + chonky orange tabby lounging in recliner with TV remote and trophy",
+  "slogan": "Best Cat Dad Ever - Purr-fectly Approved",
+  "description": "'BEST CAT DAD EVER' arched distressed top, chonky orange tabby lounging in tiny recliner armchair with TV remote in paw, gold 'BEST DAD' trophy next to him. 'PURR-FECTLY APPROVED' arched bottom. Cream + dusty teal + warm gold + faded red + soft peach. Heavy halftone vintage band-tee.",
+  "keywords": [
+    "best cat dad ever vintage band tee",
+    "cat dad fathers day dark shirt",
+    "chonky cat dad humor",
+    "cat dad recliner trophy funny"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Dark-shirt palette pops on black/navy. Dual-variant pair with p5 regal-tabby version. Different composition prevents within-portfolio cannibalization.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "81e5e629-3c4f-4f5b-9666-5a3b4ab156ff",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 7,
+    "exact_match_bsr_primary": 74479,
+    "exact_match_rating": "Good",
+    "format_category": "Best Cat Dad Ever — #1 niche format, dual-variant per Step 3.5d",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "Vintage/distressed p4 at 24% in cat-dad — above dual-variant threshold. 'Chonky cat lounging' adds the 'cat owns the place' humor on top of the slogan.",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'BEST DAD' trophy + cat-in-recliner = cat thinks HE is the dad / runs the household — extends the joke",
+    "mirror_or_invent": "mirror (#1 niche format) with composition differentiated from p5 sibling",
+    "mirror_reasoning": "Dual-variant required per Step 3.5d. Composition differentiated from p5 (regal cushion vs chonky recliner) to avoid duplicate-search-result cannibalization. CAT-ONLY composition per Father's Day gift-buyer rule."
+  },
+  "fathers_day_timing": "Father's Day 2026 = June 21. Window = 18 days from generation.",
+  "composition_rule_applied": "NO human figure. Different composition from p5 sibling to prevent cannibalization."
+}
