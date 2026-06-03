@@ -1,10 +1,10 @@
 {
   "filename": "best-cat-dad-ever-regal-tabby__p5.png",
   "niche": "cat-dad",
-  "angle": "Best Cat Dad Ever — CAT-ONLY composition, regal tabby on velvet cushion with 'APPROVED' medal (p5 light variant). Replaces the killed man+cat composition.",
-  "theme": "Vintage 1970s warm typography + regal tabby cat with approval medal",
+  "angle": "Best Cat Dad Ever — CAT-ONLY composition, regal tabby on green velvet cushion with 'APPROVED' medal (p5 light variant). Text restructured as two stacked lines to reduce gpt_image_2 letter-drop risk.",
+  "theme": "Vintage 1970s warm typography (stacked two-line) + regal tabby cat with approval medal on tasseled cushion",
   "slogan": "Best Cat Dad Ever - Purr-fectly Approved",
-  "description": "Arched 'BEST CAT DAD EVER' top, regal smug tabby on velvet cushion with gold 'APPROVED' medal and one paw raised, 'PURR-FECTLY APPROVED' arched bottom. Burnt orange + mustard + cream + warm brown + sage palette. Vintage 70s halftone distressed.",
+  "description": "Stacked top: 'BEST CAT' line 1 + 'DAD EVER' line 2 in bold 70s display. Center: regal smug tabby on green velvet cushion with gold tassels + gold APPROVED medal on red ribbon, paw raised. Bottom: 'PURR-FECTLY APPROVED' arched. Burnt orange + mustard + cream + warm brown + sage palette. Vintage 70s halftone.",
   "keywords": [
     "best cat dad ever funny",
     "cat dad fathers day gift",
@@ -15,7 +15,7 @@
   "color_profile": 5,
   "color_profile_note": "Warm cream/orange palette on dark outlines = light shirts. Dual-variant pair with p4 chonky-recliner version.",
   "source_model": "gpt_image_2",
-  "higgsfield_job_id": "8021cc06-5739-4018-811d-4f4890039dc2",
+  "higgsfield_job_id": "04958ba6-d4a0-4beb-a7cd-7c3e52ba074c",
   "background": "magenta knockout (#FF00FF) for clean background removal",
   "slogan_validation": {
     "exact_match_in_csv": 7,
@@ -29,8 +29,9 @@
     "secondary_hook_present": true,
     "secondary_hook_niche_keyword": "'Approved' medal extends the joke visually — the CAT is the one who approves the dad",
     "mirror_or_invent": "mirror (#1 niche format)",
-    "mirror_reasoning": "Top of niche BSR 74K Good, 7 recurring listings, 4-year durable. CAT-ONLY composition follows Father's Day gift-buyer rule: wife/family buying for him doesn't want a competing male figure on the shirt — the cat IS the proxy for his cat. Dual-variant pair with p4 (24% p4 + 27% p5 above dual-variant threshold)."
+    "mirror_reasoning": "Top of niche BSR 74K Good, 7 recurring listings, 4-year durable. CAT-ONLY composition follows Father's Day gift-buyer rule. Text restructured to stacked two-line layout after first regen dropped the 'A' from CAT in wide arched display text."
   },
   "fathers_day_timing": "Father's Day 2026 = June 21. Window = 18 days from generation.",
-  "composition_rule_applied": "NO human figure on Father's Day gift designs. Buyer (wife/family) wouldn't buy shirt with another man on it. Replaces the killed man+cat composition."
+  "composition_rule_applied": "NO human figure (gift-buyer rule). Two-line stacked text to reduce gpt_image_2 letter-drop risk on wide arched display lettering.",
+  "regen_note": "First regen (job 8021cc06) dropped the 'A' from CAT, rendering 'BEST CT DAD EVER'. This regen uses stacked two-line layout (BEST CAT / DAD EVER) which gives each word more vertical space and reduces letter-dropping risk in gpt_image_2."
 }
