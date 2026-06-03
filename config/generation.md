@@ -38,6 +38,17 @@ must be a **clean knockout color the remover can key out without eating the art*
   blend into light design elements (clear wine glass, ivory mahjong tile, cream
   daisy petals), so the remover eats them or leaves halos. Low subject/background
   contrast = bad matte.
+- **Inverse rule — design palette must NOT contain cream/off-white/pale tones
+  when using magenta knockout.** The remover keys on light pixels, not just pure
+  magenta — so any cream/ivory/pale tone INSIDE the design (cat belly, UFO beam
+  glow, halftone text background, soft cloud tones) gets eaten along with the
+  background. **For magenta-knockout designs, every pixel inside the art must
+  be a fully saturated color** (or a bold black outline). Lesson learned on
+  Y2K Japanese "UFO Abduction Cat" — first render had cream tones throughout
+  and was impossible to clean up. Regen with fully saturated palette
+  (mustard/terracotta/bottle-green/crimson — Tezuka-era manga, not pale
+  watercolor) cleaned up fine. Document the constraint explicitly in the prompt:
+  "ZERO cream, ZERO off-white, ZERO pale tones inside the design."
 
 Transparency, if the model genuinely returns it, is fine too (the pipeline
 detects it and skips removal) — but don't rely on it; default to the magenta

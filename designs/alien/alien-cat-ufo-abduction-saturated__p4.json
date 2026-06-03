@@ -1,0 +1,34 @@
+{
+  "filename": "alien-cat-ufo-abduction-saturated__p4.png",
+  "niche": "alien",
+  "angle": "Alien × Cat crossover — REGEN with fully saturated palette for clean magenta knockout removal (mirrors BSR 74K Good top crossover, 19 recurring listings)",
+  "theme": "Vintage saturated Japanese manga print aesthetic (Tezuka-era) — NO cream/white/pale tones",
+  "slogan": "UFO Abduction Cat - Take Me to Your Litter",
+  "description": "Saturated bottle-green UFO + chartreuse beam + black/orange tabby with red fish + dusty terracotta smoke + saturated mustard negative space + crimson Japanese stamps. 'UFO ABDUCTION CAT' top + 'TAKE ME TO YOUR LITTER' bottom. Every pixel saturated — zero cream/white/pale.",
+  "keywords": [
+    "ufo abduction cat funny alien",
+    "y2k vintage japanese cat alien",
+    "cat dad alien ufo crossover",
+    "alien cat lover retro saturated"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Saturated dark palette = dark shirts only. Regen prioritizes clean bg-removal over the original cream-tone aesthetic.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "e4fe3db4-b738-45c5-9746-b08fa09df874",
+  "background": "magenta knockout (#FF00FF) — design palette is fully saturated with zero light/cream pixels so removal is clean",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "format_category": "Alien × Cat crossover — niche's top crossover lane (19 recurring listings)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 74000,
+    "format_category_rating": "Good",
+    "cross_niche_template_check": "Crossover sub-niche pattern. 'Alien × Cat' is also the bridge to cat-dad niche (mirrors BSR 84K + 155K cat-dad UFO listings).",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'UFO Abduction Cat' anchors both alien (UFO) and cat keywords; 'Take Me to Your Litter' is a cat pun on the classic UFO phrase",
+    "mirror_or_invent": "mirror format (top crossover signal in niche)",
+    "mirror_reasoning": "Top crossover lane in alien niche. Doubles as cross-niche design (alien AND cat-dad). Saturated palette regen after the first version had cream tones the bg-remover couldn't distinguish from the magenta knockout."
+  },
+  "regen_note": "First version (97c2d835) had cream/off-white tones inside the design that the bg-remover keyed out along with the magenta — design pieces got eaten. Regen forces fully saturated palette (zero pale tones) so only the magenta gets removed.",
+  "background_removal_rule": "When using magenta knockout, design palette MUST be fully saturated. Cream/off-white/pale-tone pixels confuse the bg-remover which keys on light pixels not just pure magenta."
+}
