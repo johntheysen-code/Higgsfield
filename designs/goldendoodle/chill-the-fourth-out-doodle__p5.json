@@ -1,0 +1,37 @@
+{
+  "filename": "chill-the-fourth-out-doodle__p5.png",
+  "niche": "goldendoodle",
+  "angle": "Chill the Fourth Out — patriotic 4th of July doodle (mirrors BSR 316K Good comp 272 + BSR 387K Average patriotic doodle)",
+  "theme": "Patriotic Americana cute doodle illustration",
+  "slogan": "Chill the Fourth Out - Patriotic Doodle",
+  "description": "Cream goldendoodle in star-shaped American-flag sunglasses + red-white-blue bandana, holding small sparkler, surrounded by tiny stars + firework bursts. Dog-as-hero (55% height). 'CHILL THE FOURTH OUT' arched top, 'PATRIOTIC DOODLE' bottom. Cream + navy + faded red + gold + soft beige palette.",
+  "keywords": [
+    "chill the fourth out doodle",
+    "patriotic goldendoodle 4th of july",
+    "americana doodle independence day",
+    "doodle 4th of july funny pun"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Cream + navy + red Americana palette = light shirts only (white, cream).",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "cd746d2a-2301-4ede-a563-6acca285ad2e",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr_primary": 316494,
+    "exact_match_rating": "Good",
+    "exact_match_competition": "272",
+    "exact_match_recency": "2026-05-28 (last week!)",
+    "format_category": "Patriotic doodle pun (5% of niche, 3 listings, BSR 316K-625K)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 316494,
+    "cross_niche_template_check": "'Chill the F— Out' is universal pun format, anchored with 'Fourth' wordplay + 'Doodle' niche keyword. Patriotic seasonal format.",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Chill the Fourth Out' = wordplay pun on 'chill the f*ck out' with July 4 substitution + 'Patriotic Doodle' niche anchor",
+    "mirror_or_invent": "mirror (BSR 316K Good very recent + pun anchored to niche)",
+    "mirror_reasoning": "Most recent niche listing (last week!) at BSR 316K Good = fresh-wave signal. July 4 timing = 28 days from generation, buying window opens ~June 20."
+  },
+  "composition_rule_applied": "Dog-only (no human figure). Dog-as-hero (55% height).",
+  "fourth_of_july_timing": "July 4 2026 = 28 days from generation. Buying window typically opens ~10 days prior. Ship by June 6 to be indexed for the prime buying window."
+}

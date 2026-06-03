@@ -1,0 +1,36 @@
+{
+  "filename": "goldendoodle-the-dood-vintage__p4.png",
+  "niche": "goldendoodle",
+  "angle": "Goldendoodle The Dood — vintage band-tee typography (mirrors BSR 331K Good comp 252 — 7-year durable evergreen since 2019)",
+  "theme": "Vintage rock-band-tee distressed typography + cream doodle portrait",
+  "slogan": "Goldendoodle The Dood - Est 2019",
+  "description": "Stacked 'GOLDENDOODLE' / 'THE DOOD' top in vintage rock-band distressed display lettering. Cream doodle portrait center (head + shoulders, friendly tongue-out smile, tilted head). 'EST 2019' stamped bottom. Cream + gold + dusty teal + faded burnt orange + soft peach palette. Heavy halftone distressed vintage band-tee.",
+  "keywords": [
+    "goldendoodle the dood vintage",
+    "doodle dad vintage retro shirt",
+    "goldendoodle band tee classic",
+    "the dood goldendoodle gift"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Dark-shirt palette = dark shirts only (black, navy). 22% vintage signal in niche above dual-variant threshold but going single-profile p4 to differentiate from p5 iced-coffee design.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "91073a0a-4bae-40d4-b924-d7cc7c8f4f7f",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 3,
+    "exact_match_bsr_primary": 331685,
+    "exact_match_rating": "Good",
+    "exact_match_competition": "252",
+    "exact_match_recency": "2019-01-10 (7-year durable evergreen — original is still selling)",
+    "format_category": "Vintage 'The Dood' typography format (22% of niche, durable across 2019/2020/2021 listings still selling)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 331685,
+    "cross_niche_template_check": "Vintage/distressed = p4 dark pattern confirmed across 8+ niches. 'EST [year]' format is universal.",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'The Dood' is the niche-specific affectionate slang for goldendoodle (durable across multiple listings 2019-2021)",
+    "mirror_or_invent": "mirror (7-year durable seller, proven evergreen)",
+    "mirror_reasoning": "Original BSR 331K listing still selling 7 years later = proven durable evergreen. The Dood is established affectionate niche slang. Vintage band-tee aesthetic matches 22% p4 vintage signal in niche."
+  },
+  "composition_rule_applied": "Dog-only (no human figure). Dog as portrait center (head + shoulders)."
+}

@@ -1,0 +1,36 @@
+{
+  "filename": "iced-coffee-doodle__p5.png",
+  "niche": "goldendoodle",
+  "angle": "Iced Coffee Doodle — illustration-led summer dog (mirrors BSR 216K Good comp 314 - #1 in niche, RECENT Apr 2026)",
+  "theme": "Cute summer doodle with sunglasses + iced coffee, modern editorial illustration",
+  "slogan": "Iced Coffee Doodle - Summer Vibes Only",
+  "description": "Cream goldendoodle in oversized round black sunglasses holding clear iced coffee cup with straw. Dog-as-hero composition (55% height). Cream + warm beige + caramel + mint + dusty pink palette. 'ICED COFFEE DOODLE' arched top, 'SUMMER VIBES ONLY' bottom.",
+  "keywords": [
+    "iced coffee doodle summer dog",
+    "goldendoodle coffee sunglasses funny",
+    "doodle iced coffee summer vibes",
+    "goldendoodle dog lover summer"
+  ],
+  "trademark_checked": true,
+  "color_profile": 5,
+  "color_profile_note": "Soft summer pastel palette = light shirts only (white, cream, baby blue).",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "74343cac-153d-457d-96a4-49b944cf8c6c",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr_primary": 216502,
+    "exact_match_rating": "Good",
+    "exact_match_competition": "314",
+    "exact_match_recency": "2026-04-03 (very recent #1 in niche)",
+    "format_category": "Cute doodle + accessory (coffee/sunglasses) — the niche's dominant visual format (47% cute/funny)",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 216502,
+    "cross_niche_template_check": "Iced coffee + dog crossover repeats from golden-retriever (BSR 189K iced coffee meme winner) and cat-dad. Now confirmed as cross-niche pattern.",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Summer Vibes Only' anchors to summer 2026 timing + casual coffee-dad lifestyle",
+    "mirror_or_invent": "mirror (#1 niche winner, recent, illustration-led)",
+    "mirror_reasoning": "Top of niche BSR 216K Good comp 314, RECENT (Apr 2026). Coffee × dog crossover confirmed across 3 dog niches now. Dog-as-hero composition per generation rule."
+  },
+  "composition_rule_applied": "Dog-only (no human figure) per gift-buyer rule. Dog-as-hero (55% height) per dog composition rule."
+}
