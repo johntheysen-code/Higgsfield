@@ -6,7 +6,7 @@ CSVs land, score them against this baseline — the "potential bestseller"
 verdict comes from comparing the new niche's metrics + signals against the
 tiers below.
 
-**Last updated:** 2026-06-02 — 17 niches scored.
+**Last updated:** 2026-06-02 — 19 niches scored.
 
 ---
 
@@ -23,13 +23,15 @@ tiers below.
 
 ---
 
-## Master metrics table — all 15 niches scored
+## Master metrics table — all 19 niches scored
 
 | Niche | Niche-spec listings | <300K | 300-600K | Under 1M | Good/Excellent | Dead (>2M) | Verdict | Designs shipped |
 |---|---|---|---|---|---|---|---|---|
-| **🔥 Alien** (2026-06-02) | 130 | **21** | 47 | **125 (96%)** | **58** | 0 | 🥇 HOTTEST | 0 (queued 4) |
+| **🥇 Alien** (2026-06-02) | 130 | **21** | 47 | **125 (96%)** | **58** | 0 | 🥇 HOTTEST | 0 (queued 4) |
 | **🥇 Dachshund** (2026-05-31) | 18 | **6** | 12 | 18 (100%) | 18 | 0 | 🥇 HOTTEST density | 6 |
+| **🔥 Cat Dad** (2026-06-02) | 96 | **17** | 12 | 54 (56%) | 18 | 0 | 🔥 HOT (Father's Day window 19d!) | 0 (queued 4) |
 | **🔥 Pickleball** (2026-05-25) | 91 | 4 | 41 | 88 | 20 | 3 | 🔥 HOT | 13 |
+| **⭐ Goldendoodle** (2026-06-02) | 148 | 1 | 14 | 59 (40%) | 33 | 53 (36%) | ⭐ STRONG (similar to golden-retriever shape) | 0 (queued 3-4) |
 | **⭐ Birding** (2026-05-31) | 183 | 2 | 20 | 72 | 14 | 83 | ⭐ STRONG | 3 (+8 Kittl) |
 | **⭐ Cruise** (2026-06-02) | 177 | 17 | 100 | 172 (97%) | 27 | 0 | ⭐ STRONG (saturated headline lane) | 0 (queued 3) |
 | **⭐ Vacation** (2026-06-02) | 123 | 20 | 98 | 123 | 42 | 0 | ⭐ STRONG (saturated, use for sub-discovery) | 0 |
@@ -59,6 +61,8 @@ tiers below.
 | Vacation | Italia retro + Cruise + Bachelorette + VBS sub-niches | 43K Italia | mixed |
 | Golden Retriever | "In My Golden Era" + Iced Coffee meme + Mystical Moon | 189K–438K | mixed (era + meme + mystical) |
 | Chicken Keeper | Just A Girl Loves Chickens + Rooster Sunglasses | 320K–427K | p5 floral + p4 humor |
+| **Cat Dad** | **Best Cat Dad Ever** + Cat Dad Club + Snack Dealer + UFO Japanese (reuse from alien) | 74K–201K | **p4+p5 dual-variant trigger** |
+| **Goldendoodle** | Iced Coffee Doodle + The Dood vintage + Howling Moon (celestial repeat) | 216K–444K | p5 dominant, p4 vintage variant (dual-trigger) |
 | Kitchen | Spatula City + Salted Butter Social Club + restaurant slang | 261K–592K | **p4 first niche scored** |
 | Bachelorette | **Feral Bride / Girls Gone Feral** (rising 2026) + Mother of the Bride Era + Last Rodeo Western | 444K–882K (comp 8–80 LOW) | p5 default, p4 for chaos/feral |
 | VBS | All top sellers are TM curriculum themes (Illumination Station, Rainforest Falls, True North) — **SKIP** | n/a | n/a |
@@ -76,14 +80,18 @@ tiers below.
 
 | Pattern | Status | Niches confirming |
 |---|---|---|
-| **Grandma is pickleball-only** | CONFIRMED — DEAD elsewhere | 8 niches: quilting / crochet / birding / chicken / dachshund / golden / sourdough / kitchen / alien |
+| **Grandma is pickleball-only** | IMMUTABLE RULE — DEAD in 10+ niches | quilting / crochet / birding / chicken / dachshund / golden / sourdough / kitchen / alien / cat-dad / goldendoodle |
 | **Vintage/Distressed = p4 dark shirts** | CONFIRMED — apply at generation | 6+ niches |
 | **Crossover sub-niche becomes standout** | CONFIRMED — look for "+X" lane | Pickleball+Mahjong, Crochet+Dog, Alien+Cat, Alien+Bigfoot, Dachshund+Squirrels (HoS) |
 | **Mystical/celestial = low-comp lane** | CONFIRMED — works in over-fished niches | Golden, Sourdough (sub), Alien (cosmic) |
 | **Father's Day works for animal/hobby, dies in crafts/food** | CONFIRMED | Works: pickleball, dachshund, golden, chicken, cruise (Cruisefather). Dies: quilting, crochet, kitchen, sourdough |
 | **Identity formats (Mom/Dad/Mama) are NICHE-DEPENDENT** | CONFIRMED | Works: dachshund, chicken. Dies: golden, sourdough, kitchen (saturated). ALWAYS re-verify per CSV. |
 | **"In My X Era" trend format** | Works in select niches | Pickleball, Wine, Crochet, Golden. NOT in alien or kitchen. |
-| **Cosmic/celestial aesthetic crosses multiple niches with low comp** | EMERGING PATTERN | Golden, Sourdough (sub), Alien |
+| **Cosmic/celestial aesthetic crosses multiple niches with low comp** | CONFIRMED — 4+ niches | Golden, Sourdough (sub), Alien, **Goldendoodle (comp 108 LOW)** |
+| **Crossover lane validates across niches** (cat-dad ↔ alien Y2K Japanese UFO) | NEW CROSS-NICHE BRIDGE | Cat Dad's Japanese-UFO listings (BSR 84K + 155K Good) directly mirror Alien × Cat lane. Same design serves both niches. |
+| **Male-pet-identity niches own Father's Day** | NEW PATTERN | Cat Dad (10 FD listings, top 224K Good), Dachshund (Dad Club), Cruisefather. Breed-generic dog niches weaker. |
+| **Comp 0 with substance reference = content-moderation trap** | NEW RISK FLAG | Goldendoodle Smoking Whisky BSR 391K comp 0 — Amazon takes these down, that's why comp is 0. Same lesson as the cigar dachshund. |
+| **Coffee × niche emerging as cross-niche format** | EMERGING | Goldendoodle (iced coffee dog BSR 216K), Cat Dad (snack/coffee humor), Golden (iced coffee meme). Worth a standalone scan. |
 | **Curriculum-driven niches are TM-trap categories** | NEW PATTERN (VBS) | VBS confirmed (Illumination Station, Rainforest Falls etc.). Watch for: homeschool, Sunday school, school programs broadly. |
 | **Group-purchase markets have different conversion dynamics** | NEW MARKET-SHAPE FLAG (VBS) | Church group buys 20-50 matching shirts for a program → curriculum themes win, individual identity buyers small. Different from POD norm. |
 
@@ -110,20 +118,22 @@ User-active queue (all scored as of 2026-06-02):
 4. ~~Vacation~~ ✓ scored STRONG (saturated, use for sub-discovery)
 5. ~~Alien~~ ✓ scored HOTTEST (designs queued, not yet generated)
 
-User queue clear. Next priorities surfaced from existing scans:
+User-active queue (all scored as of 2026-06-02):
+6. ~~Goldendoodle~~ ✓ scored STRONG (queued 3-4 designs)
+7. ~~Cat Dad~~ ✓ scored HOT (queued 4 designs, **Father's Day window!**)
+
+Next priorities surfaced from existing scans:
 1. **`feral bride` / `girls gone feral`** — bachelorette comp 8 + 80 LOW signals, rising 2026 wave
 2. **`mother of the bride`** — bachelorette sub-identity, different demographic
 3. **`milestone birthday`** (`60th` / `70th` / `80th`) — confirmed across 3+ niches
-
-My ranked picks (after user's queue clears):
-3. **Milestone Birthday** (`60th` / `70th` / `80th birthday`) — **CONFIRMED across 3 niches** (pickleball + vacation + cruise). Massive cross-occasion gift market.
-4. **Goldendoodle** — different breed signal (BSR 189K winner in golden CSV), parallel framework to dachshund
-5. **Cat Dad** — established POD identity, Father's Day overlap (BSR 74K winner in alien CSV)
-6. **Bigfoot / Cryptid** — from alien data, paranormal community standalone
-7. **Alaska Cruise** (or destination cruise) — from cruise data, destination-specific format test
-8. **Tinned Fish / Sardines** — from kitchen data, rising aesthetic trend (single recent listing)
-9. **Lunch Lady** — from kitchen data, school-gift market
-10. **Cousin Crew / Family Reunion** — from vacation data, identity-based extended family
+4. **Cat Mom** — sibling to cat-dad, likely bigger + more saturated, scan to confirm
+5. **`bernedoodle` / `labradoodle`** — sibling designer-dog niches
+6. **`coffee × dog` standalone** — pattern surfaced across goldendoodle + golden + cat-dad
+7. **Bigfoot / Cryptid** — from alien data, paranormal community standalone
+8. **Alaska Cruise** (or destination cruise) — from cruise data, destination-specific format test
+9. **Tinned Fish / Sardines** — from kitchen data, rising aesthetic trend (single recent listing)
+10. **Lunch Lady** — from kitchen data, school-gift market
+11. **Cousin Crew / Family Reunion** — from vacation data, identity-based extended family
 
 ---
 
