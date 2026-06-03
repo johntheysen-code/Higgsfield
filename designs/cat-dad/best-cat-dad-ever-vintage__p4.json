@@ -1,0 +1,32 @@
+{
+  "filename": "best-cat-dad-ever-vintage__p4.png",
+  "niche": "cat-dad",
+  "angle": "Best Cat Dad Ever — vintage band-tee dark palette p4 variant (dual-variant pair with p5)",
+  "theme": "Vintage band-tee distressed typography + bearded dad holding tabby cat illustration",
+  "slogan": "Best Cat Dad Ever - Purr-fectly Approved",
+  "description": "Same composition as p5 variant but dark-shirt-optimized palette: cream + dusty teal + warm gold + faded red + soft peach. Heavy halftone distressed vintage band-tee aesthetic.",
+  "keywords": [
+    "best cat dad ever vintage band tee",
+    "cat dad fathers day dark shirt",
+    "retro cat dad gift",
+    "cat dad black shirt funny"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Dark-shirt palette pops on black/navy. Dual-variant pair with p5 version.",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "1c5b4f1a-03eb-4694-bcfa-02b1679e9394",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 7,
+    "exact_match_bsr_primary": 74479,
+    "exact_match_rating": "Good",
+    "format_category": "Best Cat Dad Ever — #1 niche format, dual-variant per Step 3.5d",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "Vintage/distressed p4 signal at 24% in cat-dad — above dual-variant threshold",
+    "secondary_hook_present": true,
+    "mirror_or_invent": "mirror (#1 niche format)",
+    "mirror_reasoning": "Dual-variant required per Step 3.5d: cat-dad shows 24% vintage/distressed (p4 signal) above 20% threshold AND 27% cute/funny (p5 signal). Generating both color variants for the niche's strongest slogan."
+  },
+  "fathers_day_timing": "Father's Day 2026 = June 21. Window = 18 days from generation."
+}

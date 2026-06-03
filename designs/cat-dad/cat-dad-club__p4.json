@@ -1,0 +1,35 @@
+{
+  "filename": "cat-dad-club__p4.png",
+  "niche": "cat-dad",
+  "angle": "Cat Dad Club — varsity-club aesthetic (mirrors BSR 201K Good comp 139 LOW — lowest comp in niche, RECENT Dec 2025)",
+  "theme": "Vintage collegiate / varsity-club typography + three-cat illustration",
+  "slogan": "Cat Dad Club - Members Only",
+  "description": "'CAT DAD CLUB' collegiate block lettering top, three cats (tabby, black, orange) sitting as club members with one wearing tiny glasses, 'MEMBERS ONLY' stamped bottom. Cream + gold + dusty orange + soft brown + muted teal palette. Halftone vintage texture.",
+  "keywords": [
+    "cat dad club funny",
+    "cat dad club members only",
+    "vintage cat dad varsity",
+    "cat dad collegiate funny"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Cream/gold/orange palette on dark outlines = dark shirts (black, navy).",
+  "source_model": "gpt_image_2",
+  "higgsfield_job_id": "8563206a-089f-4811-a41e-4ddd4e48649d",
+  "background": "magenta knockout (#FF00FF) for clean background removal",
+  "slogan_validation": {
+    "exact_match_in_csv": 1,
+    "exact_match_bsr_primary": 201045,
+    "exact_match_rating": "Good",
+    "exact_match_competition": "139 LOW",
+    "exact_match_recency": "2025-12-06 (very recent)",
+    "format_category": "Cat Dad Club / membership-identity format - new lane, low-comp open opportunity",
+    "format_category_present_in_top_sellers": true,
+    "cross_niche_template_check": "Club/Members format is universal; anchored here with 'Cat Dad' identity",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Members Only' extends the club joke, multiple-cat visual reinforces the 'multiple cats = serious cat dad' humor",
+    "mirror_or_invent": "mirror (very recent BSR 201K Good with LOW comp 139 = clearest open lane in niche)",
+    "mirror_reasoning": "Lowest-comp Good rating in cat-dad niche (139) + recent (Dec 2025) = open lane that hasn't been raced yet. Strongest single signal in the niche."
+  },
+  "fathers_day_timing": "Father's Day 2026 = June 21. Window = 18 days from generation."
+}
