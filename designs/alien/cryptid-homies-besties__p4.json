@@ -1,0 +1,48 @@
+{
+  "filename": "cryptid-homies-besties__p4.png",
+  "niche": "alien",
+  "angle": "Bigfoot × Alien Cryptid crossover with selfie-meme format (mirrors BSR 185K Good - second top crossover, 20 recurring listings)",
+  "theme": "Vintage cosmic poster aesthetic with halftone retro print + neon multi-color title",
+  "slogan": "Cryptid Homies - Besties Beyond Belief",
+  "description": "Bigfoot + green alien taking a real selfie - camera held overhead with screen visible to viewer showing the actual selfie preview. UFO + starry cosmic background + pine silhouette + neon multi-color collegiate title. Cosmic purple + midnight navy + cream + neon orange/pink/teal + mint palette. 'CRYPTID HOMIES' stacked top, 'BESTIES BEYOND BELIEF' bottom.",
+  "keywords": [
+    "cryptid homies bigfoot alien selfie",
+    "sasquatch ufo besties funny",
+    "cryptid homies besties beyond belief",
+    "bigfoot alien crossover retro cosmic"
+  ],
+  "trademark_checked": true,
+  "color_profile": 4,
+  "color_profile_note": "Cosmic purple + midnight navy + neon accents = dark shirts only.",
+  "source_model": "gpt_image_2 (Higgsfield base) → Kittl edit (title text + bottom slogan + camera-screen selfie preview fix)",
+  "higgsfield_job_id": "836cf8cc-2f3b-4516-a0be-6e4dc204c482",
+  "background": "Kittl-edited transparent (post-processing handled in Kittl, not magenta knockout pipeline)",
+  "slogan_validation": {
+    "exact_match_in_csv": 0,
+    "format_category": "Bigfoot/Sasquatch × Alien selfie-meme format",
+    "format_category_present_in_top_sellers": true,
+    "format_category_top_bsr": 185000,
+    "format_category_listings": 20,
+    "format_category_rating": "Good",
+    "cross_niche_template_check": "Crossover sub-niche pattern confirmed - cryptid + alien is the niche's second-strongest crossover",
+    "secondary_hook_present": true,
+    "secondary_hook_niche_keyword": "'Cryptid Homies' = millennial friendship slang + cryptid niche keyword; 'Besties Beyond Belief' = alliterative play on cryptid skepticism ('beyond belief' = supernatural + 'best friends beyond explanation')",
+    "mirror_or_invent": "mirror format, invent slogan (stronger than original 'Cryptid Squad - Believe the Hype')",
+    "mirror_reasoning": "Cryptid crossover lane has 20 recurring listings with top BSR 185K Good. Selfie format mirrors the proven visual hook. Slogan upgraded from 'Cryptid Squad - Believe the Hype' to 'Cryptid Homies - Besties Beyond Belief' for stronger meme-fluency and alliteration."
+  },
+  "edit_history": [
+    {
+      "step": "Higgsfield base generation",
+      "result": "camera lens facing outward (selfie pose broken), original slogan 'Cryptid Squad - Believe the Hype'"
+    },
+    {
+      "step": "Kittl edit by user",
+      "changes": [
+        "Camera held overhead, screen visible to viewer showing Bigfoot + alien selfie preview (fixes the broken-selfie composition)",
+        "Title changed: 'CRYPTID SQUAD' → 'CRYPTID HOMIES' (multi-color neon collegiate)",
+        "Bottom slogan changed: 'BELIEVE THE HYPE' → 'BESTIES BEYOND BELIEF'",
+        "Background prepared transparent for direct upload (bypasses magenta-removal pipeline)"
+      ]
+    }
+  ]
+}
